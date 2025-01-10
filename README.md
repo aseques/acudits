@@ -9,6 +9,7 @@ Els primers acudits els he tret del canal de telegram d'acudits https://t.me/acu
 Hem de treure el caràcter NSBP que apareix en el volcat de telegram
 
     perl -pe 's/\xc2\xa0//g' result.json > result-clean.json
+    sed -r --in-place $'s/\u200e//g' result-clean.json
 
 Per convertir des del format exportat del json del telegram al format que farem servir. Un manual força bo de jq [aquí|https://shapeshed.com/jq-json/]
 
