@@ -4,7 +4,8 @@ from operator import truediv
 
 def adult(text):
     """Identifiquem si el text és o no per adults"""
-    maturewords = ['sexe','cardar']
+    maturewords = ['sexe','cardar','polla']
+    #FIXME detectar casos com ampolla on no és un problema
     if any(matureword.lower() in text.lower() for matureword in maturewords):
         return True
     else:
@@ -21,8 +22,13 @@ def separa_text(text):
     acudit['part2'] = ''
     acudit['tema'] = []
     if isinstance(text, list) and len(text) > 1 and isinstance(text[1], dict) and text[1]['type'] and text[1]['type'] == 'spoiler':
+        # Marquem els spoilers com a mature i els posem en el camp del text
         acudit['mature'] = True
         text[0] = text[1]['text']
+    if isinstance(text, list) and len(text) > 1 and isinstance(text[1], dict) and text[1]['type'] and text[1]['type'] == 'italic':
+        # Hem de unir els elements d'abans i després quan hi ha una cursiva
+        text[0] = text[0] + text[1]['text'] + text[2]
+        del text[1:3]
     if isinstance(text, str):
         text = [ text ]
     for linia in text:
@@ -98,8 +104,8 @@ for missatge in missatges:
         if 'photo' in missatge:
             # Les imatges amb text al peu tampoc les guardem com a acudits (falta el context)
             pass
-        elif 'media_type' in missatge and missatge['media_type'] == "video_file":
-            # El missatge és un gif, no el fem servir com a acudit
+        elif 'media_type' in missatge and (missatge['media_type'] == "video_file" or missatge['media_type'] == "sticker" ):
+            # El missatge és un gif o sticker, no el fem servir com a acudit
             pass
         else:
             text = missatge['text']
@@ -111,3 +117,5 @@ print("Dades carregades:", missatges)
 
 with open('sortida.json', 'w', encoding='utf-8') as f:
     json.dump(acudits, f, ensure_ascii=False, indent=4)
+
+print("Tenim un total del {total}".format(total=len(acudits)))
