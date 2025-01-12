@@ -11,6 +11,26 @@ def adult(text):
     else:
         return False
 
+def fix_nested(llista):
+    """A partir d'una llista eliminem els elements que son aniuats i els convertim en part de la llista"""
+    try:
+        idx = 0
+        while idx < len(llista)-1:
+            inc = 1
+            if isinstance(llista[idx+1],dict) and llista[idx+1]['type']:
+                # Si el següent és un dels valors que busquem fem coses
+                if llista[idx+1]['type'] == 'code':
+                    if isinstance(llista[idx],str):
+                        llista[idx] = llista[idx] + llista[idx+1]['text']
+                    else:
+                        llista[idx]['text'] = llista[idx]['text'] + llista[idx+1]['text']
+                    del llista[idx+1]
+                    inc = 0
+            idx += inc
+    except ValueError:
+        pass
+    return llista
+
 def separa_text(text):
     """A partir d'una llista amb cadenes de text ens torna un dict amb els acudits separats en el format que volem"""
     acudits = []
@@ -21,21 +41,37 @@ def separa_text(text):
     acudit['part1'] = ''
     acudit['part2'] = ''
     acudit['tema'] = []
-    if isinstance(text, list) and len(text) > 1 and isinstance(text[1], dict) and text[1]['type'] and text[1]['type'] == 'spoiler':
-        # Marquem els spoilers com a mature i els posem en el camp del text
-        acudit['mature'] = True
-        text[0] = text[1]['text']
-    if isinstance(text, list) and len(text) > 1 and isinstance(text[1], dict) and text[1]['type'] and text[1]['type'] == 'italic':
-        # Hem de unir els elements d'abans i després quan hi ha una cursiva
-        text[0] = text[0] + text[1]['text'] + text[2]
-        del text[1:3]
+
     if isinstance(text, str):
+        # Sempre esperem llistes, sinò ho forcem
         text = [ text ]
+
+    text = fix_nested(text)
+    if len(text) > 1 and isinstance(text[1], dict) and text[1]['type']:
+        if text[1]['type'] == 'spoiler':
+            # Marquem l'acudit com a mature i els posem en el camp del text (elimino el camp spoiler)
+            acudit['mature'] = True
+            text[0] = text[1]['text']
+            del text[1]
+        elif text[1]['type'] == 'code':
+            text[0] = text[0] + text[1]['text'] + text[2]
+            del text[1:3]
+        elif text[1]['type'] == 'italic' or text[1]['type'] == 'bold':
+            if '*****' in text[1]['text']:
+                # Si és farciment esborrem el text
+                del text[1]
+            elif text[1]['text'].startswith("\n"):
+                # Si comença amb un salt de línia es una frase sencera, no només una paraula al mig
+                pass
+            # Hem de unir els elements d'abans i després quan hi ha una cursiva o negreta
+            else:
+                text[0] = text[0] + text[1]['text']
+                del text[1]
     for linia in text:
         tipus_linia = None
         if isinstance(linia, str):
             # La línia pot ser un string
-            if 'Avís: ' in linia:
+            if 'Avís: ' in linia or '*****' in linia or 'Acudits anglès' in linia:
                 tipus_linia = 'Descarta'
             elif acudit['part1'] == '':
                 tipus_linia = 'Part1'
