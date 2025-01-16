@@ -4,7 +4,7 @@ from operator import truediv
 
 def adult(text):
     """Identifiquem si el text és o no per adults"""
-    maturewords = ['sexe','cardar','polla']
+    maturewords = ['sexe','cardar','polla','viagra']
     #FIXME detectar casos com ampolla on no és un problema
     if any(matureword.lower() in text.lower() for matureword in maturewords):
         return True
@@ -71,7 +71,7 @@ def separa_text(text):
         tipus_linia = None
         if isinstance(linia, str):
             # La línia pot ser un string
-            if 'Avís: ' in linia or '*****' in linia or 'Acudits anglès' in linia:
+            if 'Avís: ' in linia or '*****' in linia or 'Acudits anglès' in linia or '👉' in linia or linia.startswith('Cada cop que comparteixes'):
                 tipus_linia = 'Descarta'
             elif acudit['part1'] == '':
                 tipus_linia = 'Part1'
