@@ -120,7 +120,7 @@ def separa_text(text):
 
 
 # Ruta al fitxer JSON
-file_path = 'result-clean.json'
+file_path = 'tmeacudits/result-clean.json'
 acudits = []
 
 # Carregar el fitxer JSON en memòria
