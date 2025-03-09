@@ -12,7 +12,15 @@ Hem de treure el caràcter NSBP que apareix en el volcat de telegram
     sed -r --in-place $'s/\u200e//g' result-clean.json
 
 Per la web de parlacatalana.com he fet servir un script d'[aquí](https://medium.com/@sandyshah1990/extracting-posts-article-texts-from-blogger-blogspot-a1fc0b788f75)
-que descarrega els posts i llavors un cop els tinc em quedo només amb els que m'intressen
+que descarrega els posts i llavors un cop els tinc em quedo només amb els que m'intressen.
+Llavors en un segon pas extrec els acudits i els uneixo amb el fitxer general.
+
+    cd parlacatalana.com
+    echo -n "" > parlacat_out.txt
+    for i in Acudits*.txt ; do
+        cat "$i" | grep -v "REPASSA LA RESTA DE TONGADES" | grep -v "PARLA CATALANA" >> parlacat_out.txt
+        echo -e "\n\n\n" >> parlacat_out.txt
+    done
 
 Més acudits aquí
 - https://www.parlacatalana.com/2020/07/acudits-en-catala.html
