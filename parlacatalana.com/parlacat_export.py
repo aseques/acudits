@@ -4,19 +4,21 @@ from xml.etree import ElementTree
 import html
 from bs4 import BeautifulSoup
 import re
+import sys
 
 # Replace 'YOUR_BLOG_ID' with the actual Blog ID you want to access
 BLOG_ID = '6062254512243140521'
 #FIXME només podem obtenir uns 200 posts per volta, estem canviant a ma el valor de start-index a cada execució
 MAX_RESULTS = 200  # Adjust the number of posts to retrieve per request
+index = 600
 
 # Initialize variables
 page_token = None
 all_posts = []
 
-while True:
+while index < 601:
     # Define the Blogger API URL to retrieve posts with pagination
-    api_url = f'https://www.blogger.com/feeds/{BLOG_ID}/posts/default?max-results={MAX_RESULTS}&start-index=600'
+    api_url = f'https://www.blogger.com/feeds/{BLOG_ID}/posts/default?max-results={MAX_RESULTS}&start-index={index}'
 
     if page_token:
         api_url += f'&pageToken={page_token}'
@@ -46,6 +48,8 @@ while True:
                         #    br.replace_with("\n")
                         for br in soup.find_all("br"):
                             br.replace_with("\n")
+                        for div in soup.find_all("div"):
+                            div.append("\n")
                         #post_content = soup.get_text(separator = '\n')
                         post_content = soup.get_text()
                         #post_content = re.sub(r'\n{2,}', '\n', post_content)
@@ -55,6 +59,7 @@ while True:
             # Check if there are more pages
             next_link = root.find('.//{@rel=">http://a9.com/-/spec/opensearchrss/1.0/}link[@rel="next"]')
             if next_link is None:
+                print("No hi ha més posts")
                 break
             else:
                 # Extract the page token for the next page
@@ -67,6 +72,8 @@ while True:
     else:
         print(f"Failed to retrieve posts. Status Code: {response.status_code}")
         break
+    index = index + 200
+    print("Index: {0}".format(index))
 
 # Save the content of each post as a text file
 for post_title, post_content in all_posts:
