@@ -1,6 +1,8 @@
-import json
-from operator import truediv
+"""
+Codi per extreure els acudits a partir del volcat de https://t.me/acudits
+"""
 
+import json
 
 def adult(text):
     """Identifiquem si el text és o no per adults"""
@@ -119,8 +121,8 @@ def separa_text(text):
     return acudits
 
 
-# Ruta al fitxer JSON
-file_path = 'tmeacudits/result-clean.json'
+# Ruta al fitxer JSON amb el fitxer normalitzat (via comandes en bash)
+file_path = '/home/aseques/src/acudits/tmeacudits/result-clean.json'
 acudits = []
 
 # Carregar el fitxer JSON en memòria
@@ -154,4 +156,4 @@ print("Dades carregades:", missatges)
 with open('sortida.json', 'w', encoding='utf-8') as f:
     json.dump(acudits, f, ensure_ascii=False, indent=4)
 
-print("Tenim un total del {total}".format(total=len(acudits)))
+print("Tenim un total de {total} acudits".format(total=len(acudits)))

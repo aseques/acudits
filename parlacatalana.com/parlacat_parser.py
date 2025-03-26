@@ -1,7 +1,8 @@
+"""
+Codi per extreure els acudits a partir del volcat de https://parlacatalana.com
+"""
 import json
-import re
 import sys
-from operator import truediv
 
 #FIXME això hauria d'estar en una classa comuna
 def adult(text):
