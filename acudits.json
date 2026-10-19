@@ -21,7 +21,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "tocatdelbolet.cat",
         "part1": "- És vostè optimista? \n- D'allò més! Ja hi pot pujar de peus!\n-Pot posar un exemple? \n-La meva nòvia em va trucar l'altre dia i em va dir: \"Ricard, hem de quedar per parlar\"... I hi vaig anar amb una capsa de condons. \n-Puto crack!",
         "part2": "",
@@ -150,7 +150,9 @@
         "part2": "",
         "tema": [
             "#sexe",
-            "#parella"
+            "#parella",
+            "#amor",
+            "#girs"
         ]
     },
     {
@@ -264,7 +266,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "-Tinc 14 germans\n- Ostres, deveu tenir a la vostra mare en un pedestal. \n -Sí, perquè si la baixem el meu pare se la torna a follar.",
         "part2": "",
@@ -642,7 +644,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Diàleg entre dues amigues:\n-El meu marit m'enganya. N'estic del tot convençuda.\n-Ostres, sí que em sap greu...\n-Encara no sé amb qui, però fa un mes que em venjo foradant-li tots els condons.\n-Què? Mala puta!!!\n-Com?\n-No res...",
         "part2": "",
@@ -906,7 +908,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Els dos estats del programador:\nA. Sóc el puto amo!\nB: No tinc ni idea del que estic fent...",
         "part2": "",
@@ -946,7 +948,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "El Pere diu que es vol casar per tenir relacions sexuals... Li dic jo o li dieu vosaltres?",
         "part2": "",
@@ -962,7 +964,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "El meu terapeuta diu que estic obsessionat amb la venjança. Quins collons! Ja cal que es calci, que es rifen garrotades i té tots els números!",
         "part2": "",
@@ -1365,14 +1367,6 @@
     {
         "link": "https://t.me/acudits",
         "mature": false,
-        "author": "tocatdelbolet.cat",
-        "part1": "—Ara sóc un home, però jo també vaig viure atrapat en el cos d’una dona.\n—Ah sí, fins quan?\n—Fins que vaig néixer.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
         "author": "Unknown",
         "part1": "Un astronauta perdut a l'espai... Esperem que no caigui en coma...",
         "part2": "",
@@ -1396,7 +1390,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "tocatdelbolet.cat",
         "part1": "— No et pensis que sóc com tothom i només vull una aventura d’una nit…\n— Ah, doncs jo sí…\n— Jo també, jo també!\n\n\n\nQuè fa un paio cridant com un boig de bon matí al camp? … Sembrar el pànic.\n\n\n\nCom pots distingir un termòmetre oral d’un rectal?\nPel sabor.\n\n\n\nPer què no val la pena explicar jocs de paraules a cleptòmans?\nPerquè sempre t’ho prenen tot… literalment.\n\n\n\n— M’ha dit el metge que els meus ossos estan descalcificats.\n— Bé, l’important és que hagin participat.\n\n\n\nSaps què toca el meu veí, que és músic?…. Els collons!",
         "part2": "",
@@ -1448,11 +1442,13 @@
         "author": "Unknown",
         "part1": "Si el món és un mocador... 🤔 Nosaltres què som?!",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#filosofia"
+        ]
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "— Collons, quin desfalc! El tresorer se n'ha anat amb un munt de diners de l'empresa a un altre país i ara viu envoltat de dones en un hotel de luxe rient-se de tots nosaltres. \n— És que és un bon alumne...\n— Què vols dir?\n— Va estudiar a la Universitat Juan Carlos.\n— Ah...",
         "part2": "",
@@ -1860,18 +1856,6 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": true,
-        "author": "Unknown",
-        "part1": "La dona em va dir: “El sexe és millor de vacances”\n… No va ser una postal gaire agradable de rebre.",
-        "part2": "",
-        "tema": [
-            "#sexe",
-            "#amor",
-            "#girs"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
         "part1": "Era un tio tan mandrós que va néixer als 14 anys.",
@@ -2254,14 +2238,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "The Revenant (El renascut, 1915), la història de la tortuosa i difícil travessia d'un home per aconseguir per fi un Òscar.\n(Acudits de cine)",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Has sentit parlar del punt i coma que va infringir la llei? Li van caure dues sentències consecutives!\n(Acudits lingüístics)",
         "part2": "",
         "tema": []
@@ -2374,14 +2350,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Ets més lleig que el part de Mick Jagger.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Ets més fals que l'Aznar dient que parla català en la intimitat.",
         "part2": "",
         "tema": []
@@ -2407,22 +2375,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "Vaig disfressar el meu gos de gat per Carnestoltes. Ara quan el crido, no ve.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "El meu gat es va acostar al triturador de documents i li va dir: \"Ensenya'm tot el que saps\".",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Em pregunto si Superman va posar alguna vegada ulleres al gos de Lois Lane i va dir una cosa així com ara: “No havia vist mai aquest gos.  És un gos nou? ”",
         "part2": "",
         "tema": []
     },
@@ -2463,14 +2415,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "🤔 Abans de Linkedin, no coneixia cap desconegut.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Vés a saber si els gats tenen una internet secreta plena d'humans que fan cucades intentant obrir cel.lofà o engegant cotxes...",
         "part2": "",
         "tema": []
     },
@@ -2691,14 +2635,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "Gràcies per explicar-me la paraula \"Totalitat\"... significa molt per mi.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Són irresistibles! Espero que quan m'ennuegui fins a l'asfíxia a causa dels óssos de gelatina Haribo, la gent digui que em van matar uns óssos... I ho deixi aquí.",
         "part2": "",
         "tema": []
     },
@@ -3149,14 +3085,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Per què els físics quàntics no fan l'amor?\n\nPerquè quan troben el moment no troben la posició i quan troben la posició no troben el moment.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Et molesto?\n—No cal, gràcies.",
         "part2": "",
         "tema": []
@@ -3210,14 +3138,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "-Quin és el teu més gran defecte?  \n-Em fico en converses alienes. \n-Li estic preguntant a ell! \n-Ai, perdoni, jeje.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "https://t.me/stickerscat",
-        "part1": "Stickers en Català 100% gratuïts. \nStickers en llengua catalana. Els podeu utilitzar i compartir. Normalitzem el català! \nPer reenviar, premeu l'sticker durant 2 segons i després feu clic a la fletxa del marge superior dret de la pantalla. Que rulin!\nEnganxines, adhesius, stickers",
         "part2": "",
         "tema": []
     },
@@ -3439,7 +3359,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "- Benvingut al banc de semen, estàs citat?\n- Com un mico, toqui, toqui!",
         "part2": "",
@@ -3522,14 +3442,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "— Com es declara l’acusat?\n— Sóc molt tradicional. Amb flors i de genolls.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Has provat mai de menjar-te un rellotge? Consumeix molt de temps!",
         "part2": "",
         "tema": []
     },
@@ -3851,7 +3763,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "-Doncs Einstein era molt llest, però lleig de collons! \n-Per lleig el seu germà.\n-Eh?\n-Frank-Einstein.",
         "part2": "",
@@ -3867,7 +3779,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "☠\n-És greu això meu, doctor? \n-Collons! Atureu l'autòpsia!",
         "part2": "",
@@ -3878,14 +3790,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "-Doctor, doctor, em fa mal aquí.\n-Doncs posi's allà... \n-Doctor, doctor, em segueix Fent Mal! \n-Fent Mal, no el segueixis!",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "https://2020game.io/",
-        "part1": "un resum de l'any en videojoc...",
         "part2": "",
         "tema": []
     },
@@ -4138,7 +4042,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "🍩🍩🍩\n\nVeu activa:\nT'has menjat tres donuts.\n\nVeu passiva:\nTres donuts han estat menjats per tu.\n\nVeu passiva-agressiva:\nT'has menjat tres donuts i no me n'has deixat ni un. No et preocupis. Està bé. Ja veig que els donuts són molt importants per a tu!",
+        "part1": "Veu activa:\nT'has menjat tres donuts.\n\nVeu passiva:\nTres donuts han estat menjats per tu.\n\nVeu passiva-agressiva:\nT'has menjat tres donuts i no me n'has deixat ni un. No et preocupis. Està bé. Ja veig que els donuts són molt importants per a tu!",
         "part2": "",
         "tema": [
             "#psicologia"
@@ -4460,7 +4364,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "💡Quants psiquiatres freudians calen per a canviar una bombeta? \n\nDos. Un per a canviar la bombeta i l'altre per aguantar el penis... Vull dir la mare! Vull dir l'escala, l'escala!!!",
         "part2": "",
@@ -4556,14 +4460,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Agitant les masses.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "- Amor, quan parles ets com una ciutat.\n- La romàntica París, la imperial Viena, la màgica Venècia, l'energètica Nova York?\n- No, Kansas.",
         "part2": "",
         "tema": [
@@ -4582,7 +4478,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": true,
+        "mature": false,
         "author": "Unknown",
         "part1": "- Disculpi, és aquí on ajuden els alcohòlics?\n- Sí, com puc ajudar-te?\n- Em falten 3,5 euros per a una ampolla de whisky.",
         "part2": "",
@@ -4835,14 +4731,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "La muda representa un gran esforç per les serps. S'hi deixen la pell.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Quina és la serp que treballa a les obres?\nLa boa constructor.\n\n🤔 I per què totes les obres tenen tanques?",
         "part2": "",
         "tema": [
@@ -5003,7 +4891,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Un nen pregunta al seu pare:\n\n- Pare, què és el capitalisme?\n\nEl seu pare el mira i diu:\n\n- Bé, miraré d'explicar-t'ho així:\n\nAlimento aquesta família, així doncs, diguem que jo sóc el capitalisme.\n\nLa teva mare administra els diners. Per tant podem anomenar-la govern.\n\nTots dos som aquí per fer-nos càrrec de les teves necessitats, per tant, et direm Poble.\n\nConsiderarem la classe treballadora a la mainadera i el teu germà petit l'anomenarem Futur...\n\nAra vull que pensis i ho relacionis. \n\nEl noi se'n va al llit.  A les 12 sent el seu germà gemegar i s'aixeca per veure què li passa. \n\nS'acosta al bressol, aixeca el bolquer i s'adona que s'ha de canviar. \n\nSe'n va a l'habitació dels seus pares i troba la seva mare adormida; per no despertar-la va a l'habitació de la mainadera i veu que la porta està tancada, mira pel pany i veu el seu pare follant amb la mainadera.\n\nL'endemà al matí el noi diu al seu pare:\n\n- Pare, crec que ja he entès el concepte de Capitalisme.\n\n- Bé, me n'alegro! Explica-m'ho per veure si ho entens bé.\n\n- Bé, mentre el capitalisme es folla a la classe treballadora, el govern està adormit, el poble és ignorat i el futur fa pudor de merda.",
         "part2": "",
@@ -5092,7 +4980,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": true,
+        "mature": false,
         "author": "Unknown",
         "part1": "Abans amb uns 3€ (500 ptes.) anaves al supermercat i sorties amb 1 ampolla de llet, 2 llaunes de tonyina, 2 sobres de pernil, 1 ampolla d’oli, tomàquets, olives i sis cerveses. Ara, amb tantes càmeres, és impossible.",
         "part2": "",
@@ -5265,14 +5153,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Stickers (enganxines, adhesius)  gratuïts en català fent clic aquí:",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Els poetes de lavabo,\nsom artistes d'ocasió,\nque trobem entre la merda,\nla gran font d'inspiració.",
         "part2": "",
         "tema": [
@@ -5416,14 +5296,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Detenen tots els participants d'un torneig d'escacs per amenaces al rei.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Tinc la memòria d'un elefant. Recordo haver anat al zoo una vegada i haver vist un elefant. 🐘",
         "part2": "",
         "tema": [
@@ -5544,7 +5416,15 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Un acudit amb 3 paraules?\n\nFamília reial exemplar.\n\n😂😂🤣🤣😂😂😂🤣🤣\n\nPD: No especifiquem quina família. Que cadascú interpreti el que vulgui ;-)",
+        "part1": "Un acudit amb 3 paraules?\n\nFamília reial exemplar.",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://t.me/acudits",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "PD: No especifiquem quina família. Que cadascú interpreti el que vulgui ;-)",
         "part2": "",
         "tema": [
             "#monarquia"
@@ -5562,14 +5442,6 @@
             "#química",
             "#ciència"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Sabieu que la xocolata encongeix la roba?",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -5669,15 +5541,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "https://youtu.be/xZUARxZ0olQ",
-        "part1": "Avui fa 20 anys de la mort del geni de l'humor Eugenio.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "-El meu besavi era cardiòleg, el meu avi també cardiòleg, el meu pare també cardiòleg i jo... uròleg.\n-Com és això?\n-No, res, per tocar els collons.",
         "part2": "",
@@ -5802,18 +5666,6 @@
         "tema": [
             "#acudit",
             "#teràpia"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "\"El país estava a punt de caure en l'abisme, però ja hem fet un pas endavant!\"",
-        "part2": "",
-        "tema": [
-            "#acudit",
-            "#mussolini",
-            "#feixisme"
         ]
     },
     {
@@ -6722,14 +6574,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Sisplau, focalitzem-nos!",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "La meva dona m'ha deixat una nota a la nevera on posa \"Això no rutlla\".\nJa fa una hora que l'estic revisant, i la nevera funciona perfectament.",
         "part2": "",
         "tema": [
@@ -6798,9 +6642,9 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
-        "part1": "🔞☠️\n\n— Sóc més feliç des de que em prenc la vida amb ironía.\n— Heroïna.\n— Això.\n\nNota: això només és un acudit d'humor negre. Mantingueu-vos allunyats de la droga. És molt dolenta. Aprofiteu la vida, aspireu a tot (excepte si sou cocaïnòmens, és clar).",
+        "part1": "— Sóc més feliç des de que em prenc la vida amb ironía.\n— Heroïna.\n— Això.\n\nNota: això només és un acudit d'humor negre. Mantingueu-vos allunyats de la droga. És molt dolenta. Aprofiteu la vida, aspireu a tot (excepte si sou cocaïnòmens, és clar).",
         "part2": "",
         "tema": [
             "#humornegre"
@@ -6835,7 +6679,8 @@
         "part2": "",
         "tema": [
             "#política",
-            "#societat"
+            "#societat",
+            "#història"
         ]
     },
     {
@@ -6959,7 +6804,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "—Identifique-vos! \n\n—Kamikazes japonesos, Unitat Especial d'Atac Shinpū. Ens estavellem amb avionetes carregades de 250 kilos d'explosius contra portaavions enemics.\n\n—I vosaltres qui sou?\n\n—Catalans. A la nit de Sant Joan, després de fotre'ns fins el cul de cava, milions de nosaltres sortim als carrers, sense cap tipus de preparació en la manipulació de material pirotècnic, a tirar petards de gran calibre. \n\nKamikazes japonesos: fotem el camp, això ja és massa!\n\n🏃🏻‍♂️💥💥💥💥💥",
+        "part1": "—Identifique-vos! \n\n—Kamikazes japonesos, Unitat Especial d'Atac Shinpū. Ens estavellem amb avionetes carregades de 250 kilos d'explosius contra portaavions enemics.\n\n—I vosaltres qui sou?\n\n—Catalans. A la nit de Sant Joan, després de fotre'ns fins el cul de cava, milions de nosaltres sortim als carrers, sense cap tipus de preparació en la manipulació de material pirotècnic, a tirar petards de gran calibre. \n\nKamikazes japonesos: fotem el camp, això ja és massa!",
         "part2": "",
         "tema": [
             "#santjoan"
@@ -6990,7 +6835,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠️\n\n—El McAfee s'ha penjat!\n—Un altre cop?\n—Com?\n—Eh?",
+        "part1": "—El McAfee s'ha penjat!\n—Un altre cop?\n—Com?\n—Eh?",
         "part2": "",
         "tema": []
     },
@@ -7015,7 +6860,7 @@
         "tema": [
             "#psicologia",
             "#capdany",
-            "#Nadal"
+            "#nadal"
         ]
     },
     {
@@ -7308,7 +7153,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Texticles: petits escrits on poso el que em surt dels collons.",
         "part2": "",
@@ -7376,7 +7221,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠️\n\n—Has vist el meu advocat?\n—Quin advocat?\n—El que tinc aquí penjat, jajaja!\n—Ostia, put*! PER L'AMOR DE DÉU!\n—Jajajaja!\n—DES DE QUAN TENS AQUEST CADÀVER AQUÍ, TROS DE PSICÒPATA?",
+        "part1": "—Has vist el meu advocat?\n—Quin advocat?\n—El que tinc aquí penjat, jajaja!\n—Ostia, put*! PER L'AMOR DE DÉU!\n—Jajajaja!\n—DES DE QUAN TENS AQUEST CADÀVER AQUÍ, TROS DE PSICÒPATA?",
         "part2": "",
         "tema": [
             "#dret",
@@ -7674,14 +7519,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "LLibre d'humor recomanat per TDB:\nRIALLES INSUBMISES\n\nEn un context en què els arguments més dèspotes i autoritaris sembla que tornin a obrir-se pas enmig d’una societat desencantada, Rialles insubmises apareix com un recordatori en clau d'humor per a no repetir errors que créiem superats, però també per a ser més conscients de les injustícies que encara hi ha al món, i de qui hi ha darrere d’aquest desgavell… tot plegat amb uns apunts d’allò més punyents, irònics, sorneguers i… per sobre de tot, insubmisos.\n\n\"El millor govern és aquell on hi ha menys inútils\", Voltaire.\n\nMés informació sobre el llibre",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "I went to see an acupuncturist. When I got home, my voodoo doll was dead. (Gary Delaney) \n\nVaig anar a fer-me acupuntura i quan vaig tornar a casa, el meu ninot de vudú estava mort.",
         "part2": "",
         "tema": [
@@ -7696,17 +7533,6 @@
         "part2": "",
         "tema": [
             "#vampirs"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Molt bé, set-ciències. A veure: i si algú surt fora de l'espai-temps, quina hora és per ell?",
-        "part2": "",
-        "tema": [
-            "#física",
-            "#temps"
         ]
     },
     {
@@ -7749,14 +7575,6 @@
         "tema": [
             "#psicologia"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "L'equivalent en diners amb l'actual tarifa, cada cop que encens l'aire acondicionat.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -7816,7 +7634,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠️\n\n— Senyor agent, li juro que ha mort d'un cop de calor…\n— D'acord senyora, però deixi anar la planxa lentament i alci les mans.",
+        "part1": "— Senyor agent, li juro que ha mort d'un cop de calor…\n— D'acord senyora, però deixi anar la planxa lentament i alci les mans.",
         "part2": "",
         "tema": [
             "#homicidi",
@@ -7878,7 +7696,7 @@
         "link": "https://t.me/acudits",
         "mature": true,
         "author": "Unknown",
-        "part1": "🔞\n\nRebre sexe oral per part d'una persona lletja és com escalar: no has de mirar mai cap avall.",
+        "part1": "Rebre sexe oral per part d'una persona lletja és com escalar: no has de mirar mai cap avall.",
         "part2": "",
         "tema": [
             "#sexe"
@@ -7998,7 +7816,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠️\n\n—Amor, què fas a la finestra?\n—Estava pensant si tancar-la o saltar...\n—Salta, ja la tanco jo.",
+        "part1": "—Amor, què fas a la finestra?\n—Estava pensant si tancar-la o saltar...\n—Salta, ja la tanco jo.",
         "part2": "",
         "tema": [
             "#humornegre",
@@ -8260,7 +8078,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "El preu de l'electricitat explicat amb un acudit\n\n—Compro 3 kilos de pomes, 2 kilos de peres i aquests dos kiwis de Nova Zelanda ecològics.\n—Molt bé, doncs li cobrem tot al preu dels kiwis.\n—Com?!\n—Seran 160€.\n—Què??!!\n—Aquí ens regim segons el mercat de l'electricitat. \n—Quins collons! 🤔Vostè em sona...\n—Sóc un ex-ministre... i sisplau pagui i deixi passar, que per la porta giratòria entra un altre ex-ministre.\n—Això és un robatori!\n—Sí, però un robatori legal.",
         "part2": "",
@@ -8367,7 +8185,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠\n\nEl pitjor lloc on començar amb mal peu és en un camp de mines.",
+        "part1": "El pitjor lloc on començar amb mal peu és en un camp de mines.",
         "part2": "",
         "tema": [
             "#humornegre"
@@ -8559,17 +8377,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Si el món és un mocador... Nosaltres què som?",
-        "part2": "",
-        "tema": [
-            "#filosofia"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "☠️\n\nPer què els cementiris tenen els murs tan alts, si els que són dins, no poden sortir, i els que són fora, no volen entrar?",
+        "part1": "Per què els cementiris tenen els murs tan alts, si els que són dins, no poden sortir, i els que són fora, no volen entrar?",
         "part2": "",
         "tema": [
             "#humornegre"
@@ -8579,7 +8387,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠\n\nEm sorprèn que els tanatoris atribueixin l'augment de preu dels funerals al cost de la vida.",
+        "part1": "Em sorprèn que els tanatoris atribueixin l'augment de preu dels funerals al cost de la vida.",
         "part2": "",
         "tema": [
             "#humornegre"
@@ -8661,14 +8469,6 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "https://youtu.be/oAKbUnCGwwQ",
-        "part1": "Ho tenien amagat, però aquest és, sens dubte, el millor gol de la història.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
         "mature": true,
         "author": "Unknown",
         "part1": "—Quina és la teva condició sexual?\n—Com per posar condicions, estic jo!",
@@ -8681,7 +8481,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠\n\nAcabo de sortir de casa i no sé si la veïna ha fet coliflor o si he de trucar els forenses.",
+        "part1": "Acabo de sortir de casa i no sé si la veïna ha fet coliflor o si he de trucar els forenses.",
         "part2": "",
         "tema": [
             "#humornegre"
@@ -8691,7 +8491,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠\n\nLi vaig dir que si pensava fer submarinisme entre taurons, anés amb peus de plom. No em va entendre, i encara és allà, al fons del mar.",
+        "part1": "Li vaig dir que si pensava fer submarinisme entre taurons, anés amb peus de plom. No em va entendre, i encara és allà, al fons del mar.",
         "part2": "",
         "tema": [
             "#animals",
@@ -8775,7 +8575,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Des de que soc donant de semen, això de fer calerons ho tinc molt per la mà.",
         "part2": "",
@@ -8921,14 +8721,6 @@
             "#endevinalles",
             "#viatges"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Tu estàs bé perquè encara no hem posat nom a això teu.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -9252,14 +9044,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Al món on vius, res no és el que sembla. Els embotits de gall dindi no són saludables, la margarina és pitjor que la mantega i els sucs de fruita són dolents per la salut, pur sucre que el cos no pot processar quan se separa de la polpa. Estàs preparat per sortir de Matrix i veure el món dels aliments directament sortits de la terra?",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Què no li cap a una persona amb el cap molt petit?\nEl menor dubte.",
         "part2": "",
         "tema": [
@@ -9272,17 +9056,11 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Especial Acudits de Cap d'any \n🎉😁Festival de l'humor! 🥳🕛\nHumor en català! Passa-ho!",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Inicialment el meu propòsit d’any nou era perdre pes…. Però, ja em coneixeu… no m’agrada gens perdre!",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9290,7 +9068,9 @@
         "author": "Unknown",
         "part1": "La joventut és allò que passa entre que no et deixen sortir de casa per cap d'any i que no surts encara que puguis.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9298,7 +9078,9 @@
         "author": "t.me/acudits",
         "part1": "No és per presumir, però a aquestes alçades ja tinc prous diners com per no haver de treballar la resta de l'any.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9306,7 +9088,9 @@
         "author": "Unknown",
         "part1": "Un cop finalitzat el sorteig de la Grossa de Cap d'any, ja us puc dir que he guanyat 5 kilos! Ara estic buscant dietes per internet.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9314,7 +9098,9 @@
         "author": "Unknown",
         "part1": "— La dona m'ha dit que el sexe per cap d'any és una meravella!\n— Però si t'ho ha dit per missatge de text!\n— I què?\n— Des de Cancún...\n— Tu no trenquis l'encant, ara!",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9322,7 +9108,9 @@
         "author": "Unknown",
         "part1": "Evolució de la festa de cap d'any\n\n10 anys: et diverteix el teu oncle borratxo \n20 anys: et fa vergonya el teu oncle borratxo\n30 anys: beus amb el teu oncle borratxo \n40 anys: Ets el nou oncle borratxo",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9330,7 +9118,9 @@
         "author": "t.me/acudits",
         "part1": "Jo no em preocupo per engreixar-me aquest cap d'Any. Ja vaig fer-ho des del començament per no deixar coses pel final.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9338,7 +9128,9 @@
         "author": "Unknown",
         "part1": "Què li diu un porc a un altre?\n\"És un secret ibèric\"",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9346,7 +9138,9 @@
         "author": "Unknown",
         "part1": "— El meu desig per aquest any nou és que m'estimis tant com jo t'estimo a tu.\n— Demana salut, no siguis estúpid.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9354,7 +9148,9 @@
         "author": "Unknown",
         "part1": "Per què no vesso ni una sola gota del meu cava?\n...\nBec responsablement.\n\n* Bon any nou! *\n\n— Mare, i com vaig néixer jo?\n— A veure... Per cap d'any vam demanar un desig a la cigonya, que havia de venir de París... i mentrestant ens vam fotre fins el cul de cava i el pare em va estampar contra la rentadora.\n\n* Humor en català *\n\n\nRecordo quan el bottox era un tema controvertit. Però avui dia la gent ja ni alça una cella.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9362,7 +9158,9 @@
         "author": "t.me/acudits",
         "part1": "He acabat el meu llibre sobre cotillons de cap d'any... Ara que ho penso, potser hauria estat molt més fàcil escriure'l sobre fulls de paper.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9370,15 +9168,19 @@
         "author": "Unknown",
         "part1": "Pels qui odien la festa de cap d’any és més aviat un “festa fotre”.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "— Ara que acaba l'any, digui'm: quan va ser l'últim cop que va tenir relacions sexuals?\n...\n— No plori. Intenti recordar.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9386,7 +9188,9 @@
         "author": "Unknown",
         "part1": "Què li va passar a l'home que va robar un calendari el 31 de desembre?\nLi van caure 12 mesos!",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9394,7 +9198,9 @@
         "author": "Unknown",
         "part1": "El meu propòsit pel nou any és ser més optimista i veure el got mig ple. L’ompliré fins la meitat de whisky, vodka o ratafia…",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9402,7 +9208,9 @@
         "author": "Unknown",
         "part1": "Festeja amb cava i el teu any serà genial; \namb raïm i un bon vi el teu any serà diví; \nperò si vols un any estel·lar \nno t'oblidis de… Bon Any!",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9410,15 +9218,9 @@
         "author": "Unknown",
         "part1": "Bon any! Però on ets? T'estem buscant per tot arreu. Has de venir de seguida. Ets massa important. A més… saps molt bé que no es pot completar el pessebre sense el ruc.",
         "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Que els diputats s'abaixin el sou i es posin a treballar? Que els imputats per corrupció compleixin la condemna completa? Què et toqui la loteria? Escolta, que els propòsits i desitjos de Cap d'Any han de ser realistes!! Feliç 2022!\n\n\n\nEspero ser el primer a felicitar-te el nou any: FELIÇ 2040!\n\n\n\nAny nou, vida nova. El passat trepitjat. El que és bo guardat i el que és dolent oblidat. El canal d'acudits de Telegram en català  et desitja un bon any nou i que gaudeixis moltíssim d'aquest nou 2022.\n\n\nPASSEU-LOS:  BON ANY NOU!!!!!!\nAcudits en català a",
-        "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -9438,7 +9240,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠\n\nLi vaig dir: no juguis a la ruleta russa! Però li entra per una orella i li surt per l'altra. 🤷🏻‍♂️",
+        "part1": "Li vaig dir: no juguis a la ruleta russa! Però li entra per una orella i li surt per l'altra. 🤷🏻‍♂️",
         "part2": "",
         "tema": [
             "#humornegre"
@@ -9492,18 +9294,18 @@
         "part1": "Quin és el millor regal de Reis?\nUn ou dur… És simplement imbatible.",
         "part2": "",
         "tema": [
-            "#Nadal",
+            "#nadal",
             "#reis"
         ]
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Ja tindria collons la cosa si un rei vingut d'orient ens portés la República! 😁",
         "part2": "",
         "tema": [
-            "#Nadal",
+            "#nadal",
             "#Reis"
         ]
     },
@@ -9568,14 +9370,6 @@
         "tema": [
             "#filosofia"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Fem una koalició?",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -9749,7 +9543,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "—He fet la marató en 43 segons!\n—Saps que la marató és longitudinal, no transversal, oi?\n—Què vol dir?\n—Que no val travessar d'una part a l'altra de manera perpendicular a la seva dimensió longitudinal.\n—Com?\n—Collons, que has anat d'una vorera a l'altra interrompent la marxa, que has d'anar en el sentit de la cursa!\n—Ah, ostres.\n—Tens dret a una trucada.\n\n[Basat en un cas real]",
         "part2": "",
@@ -9796,14 +9590,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "Quin és el súmmum d'un carnicer?  Tenir un fill xoriço i un gos salsitxa.\n\nQuin és el súmmum de la paciència?  Capar una puça amb guants de boxa.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Acabo de mossegar un fatxa i m'he hagut d'estar llepant el cul 20 minuts per treure'm el mal sabor de boca.",
         "part2": "",
         "tema": []
     },
@@ -9913,7 +9699,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠\n\nUna persona mor atropellada al cine... \nNo va veure el trailer.",
+        "part1": "Una persona mor atropellada al cine... \nNo va veure el trailer.",
         "part2": "",
         "tema": []
     },
@@ -10335,7 +10121,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": true,
+        "mature": false,
         "author": "Unknown",
         "part1": "Va tenir un amor platònic amb un filòsof. Ell li deia: o ho acceptes o ho Descartes. Un dia, en ple banquet, el molt pesat li va fer tot un discurs del mètode que havia seguit per fer el pollastre al forn. En fi, per entendre l'art de sobreviure a un amor tan impossible, caldria fer tota una investigació sobre l'enteniment humà.",
         "part2": "",
@@ -10428,14 +10214,6 @@
             "#amor",
             "#quiromància"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "T'has despertat mai sobresaltada al pensar que arribaves tard a la feina i t’has tranquil·litzat al veure que ja eres allà?",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -10633,14 +10411,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Millennial: persona que ha patit una gran recessió econòmica, precarietat laboral, una pandèmia amb confinament i una guerra... i que ha de sentir com li diuen \"És que vosaltres viviu molt bé\".",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "— Cambrer, jo prendré uns espagueti i la meva filla pizza amb bolets, albergínia i olives. \n— Capritxosa? \n— Fins el capdamunt em té.",
         "part2": "",
         "tema": [
@@ -10815,22 +10585,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Ara oblidaràs el que ha passat als Oscars.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": true,
-        "author": "Unknown",
-        "part1": "Tothom passava dels Oscars fins que Will Smith li va cardar una cleca a Chris Rock. L'Acadèmia els deu molt a tots dos.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Pere, per què no has anat a l'escola aquesta setmana?\n—El meu pare és a l'hospital.\n—Encara?\n—Sí, és doctor.",
         "part2": "",
         "tema": [
@@ -10850,14 +10604,6 @@
         "tema": [
             "#humornegre"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Misteri: diuen que en aquest lloc se senten crits per la nit.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -11154,14 +10900,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Només et diré això: cervesa gratis a l'altra banda del riu.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Quina és la diferència entre Superman i Ludòpataman?\nEl primer atrapa els atracadors, i el segon arruïna els seus plans.",
         "part2": "",
         "tema": [
@@ -11256,7 +10994,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": true,
+        "mature": false,
         "author": "Unknown",
         "part1": "Duia una ampolla de vi a la bicicleta i em feia por que se'm caigués.\nPer tant he decidit beure-me-la.\nLa millor decisió que he pres en molt de temps, perquè després m'he caigut tres vegades!",
         "part2": "",
@@ -11402,7 +11140,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "El corrector del meu mòbil mai folla.",
         "part2": "",
@@ -11498,7 +11236,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": true,
+        "mature": false,
         "author": "Unknown",
         "part1": "La vida moderna és comprar oli d'oliva ecològic en ampolla de plàstic.",
         "part2": "",
@@ -11779,7 +11517,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Diuen que quan una porta es tanca, una altra s'obre. \nBen cert, estic de la mampara fins els collons.",
         "part2": "",
@@ -11840,7 +11578,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "☠\n\nMy grief counsellor died the other day...\nBut he was so good I didn’t give a shit. (Gary Delaney)\n\nEl meu assessor de gestió del dol va morir l'altre dia...\nPerò era tan bo que no em va importar una merda.\n\n(Gary Delaney)",
+        "part1": "My grief counsellor died the other day...\nBut he was so good I didn’t give a shit. (Gary Delaney)\n\nEl meu assessor de gestió del dol va morir l'altre dia...\nPerò era tan bo que no em va importar una merda.\n\n(Gary Delaney)",
         "part2": "",
         "tema": [
             "#humornegre",
@@ -11942,17 +11680,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Als qui els falti un bull, esperem que amb aquesta onada de calor s'acabin de coure.\n\nMolt queixar-vos dels 40 graus de calor però ni mu dels 40 graus de la ginebra. Doble moral!",
-        "part2": "",
-        "tema": [
-            "#calor",
-            "#estiu"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Pare, fem una petita trobada a l'escola.\n—Una petita trobada? Què vols dir?\n—Només tu, el director i jo.",
         "part2": "",
         "tema": [
@@ -12028,7 +11755,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "—Identifiqueu-vos! \n\n—Kamikazes japonesos, Unitat Especial d'Atac Shinpū. Ens estavellem amb avionetes carregades amb 250 kilos d'explosius contra portaavions enemics.\n\n—I vosaltres qui sou?\n\n—Catalans. A la nit de Sant Joan, després de fotre'ns fins el cul de cava, milions de nosaltres sortim als carrers, sense cap mena de preparació en la manipulació de material pirotècnic, a tirar petards de gran calibre. \n\nKamikazes japonesos: fotem el camp, això ja és massa!\n\n🏃🏻‍♂️💥💥💥💥💥",
+        "part1": "—Identifiqueu-vos! \n\n—Kamikazes japonesos, Unitat Especial d'Atac Shinpū. Ens estavellem amb avionetes carregades amb 250 kilos d'explosius contra portaavions enemics.\n\n—I vosaltres qui sou?\n\n—Catalans. A la nit de Sant Joan, després de fotre'ns fins el cul de cava, milions de nosaltres sortim als carrers, sense cap mena de preparació en la manipulació de material pirotècnic, a tirar petards de gran calibre. \n\nKamikazes japonesos: fotem el camp, això ja és massa!",
         "part2": "",
         "tema": [
             "#santjoan"
@@ -12137,14 +11864,6 @@
             "#restauració",
             "#girs"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "La seqüela de 'El dia de la marmota' és 'El dia de la marmota'. (Gary Delaney)",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -12324,14 +12043,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Quan arribes amb tota la il·lusió a una festa però de seguida veus que no és el que t'esperaves.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "— Tinc un xicot que és imbècil.\n— Quina sort que tens! No saps prou com n'és de difícil trobar l'ànima bessona en aquesta vida.",
         "part2": "",
         "tema": [
@@ -12442,7 +12153,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "—Defineixi's en una paraula. \n—Humil. \n—I en tres paraules? \n—La puta hòstia.",
         "part2": "",
@@ -12766,14 +12477,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Llibre recomanat\nAcudits en català per a nens i nenes\nCaçadors d'acudits\nFes clic aquí",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Quin temps farà avui?\n—Ja han començat les festes de Gràcia, a Barcelona?\n—Sí.\n—Ja tenen tots els carrers decorats?\n—Correcte.\n—Llavors, plourà.\n\nUn clàssic de cada any.",
         "part2": "",
         "tema": [
@@ -12833,14 +12536,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Vídeo o no ha passat mai.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "\"No interrompis mai els teus enemics quan estan cometent un error\" ~ Napoleó Bonaparte",
         "part2": "",
         "tema": [
@@ -12886,14 +12581,6 @@
             "#parella",
             "#amor"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Llibre recomanat\nLlibre d'acudits anglès-català\nFes clic aquí",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -12976,14 +12663,6 @@
     {
         "link": "https://t.me/acudits",
         "mature": false,
-        "author": "https://amzn.to/3CV7azV",
-        "part1": "Membre del\nClub social d'antisocials\n\n\n(samarreta)",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
         "author": "Unknown",
         "part1": "Els sociòlegs diuen que les xarxes socials estan creant la generació més mandrosa de la història.\nVaig expressar la meva opinió amb gran detall prement el botó “M’agrada”.",
         "part2": "",
@@ -13008,14 +12687,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Un bany de multituds.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "L'os polar no té mai fred.\nEl que de vegades té fred i d'altres no, és l'os bipolar.",
         "part2": "",
         "tema": [
@@ -13034,30 +12705,11 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Les bromes sobre el comunisme no tenen classe.",
-        "part2": "",
-        "tema": [
-            "#política",
-            "#història"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "No és el mateix estar adormit que estar dormint, perquè no és el mateix estar cardat que estar cardant.",
         "part2": "",
         "tema": [
             "#jocsdeparaules"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Gràcies i llarga vida al català! ✊🏻",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -13096,14 +12748,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "No hi podia faltar. La clau de la immortalitat: saber i guanyar.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "El nou rei d'Anglaterra, Carles, vol escoltar els seus súbdits. En les seves últimes declaracions ha afirmat:",
         "part2": "",
         "tema": []
@@ -13131,14 +12775,6 @@
             "#educació",
             "#matemàtiques"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "t.me/stickerscat",
-        "part1": "Ja teniu els adhesius (stickers) de l'11 de setembre a",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -13195,14 +12831,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Això no ha anat bé...",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Digues algun dels derivats del petroli.\n\nLa guerra.",
         "part2": "",
         "tema": [
@@ -13214,28 +12842,9 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Curs de català:\n1. Enviar a pastar fang\ni\n2. Fotre el camp",
-        "part2": "",
-        "tema": [
-            "#llengua",
-            "#català"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
         "mature": true,
         "author": "Unknown",
         "part1": "Quina presa de pèl la vasectomia. Et diuen que ja no tindràs fills i, quan tornes a casa, allà hi son!",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Curs de català:\nTal faràs, tal trobaràs.\n(Dita)",
         "part2": "",
         "tema": []
     },
@@ -13252,7 +12861,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Cas real...\n\n— ... ¿Y eso de \"data\" qué es?\n— Data es \"fecha\".\n— ¿Pero 'fecha' no era hígado?\n— Collons!",
         "part2": "",
@@ -13260,14 +12869,6 @@
             "#llengua",
             "#català"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Copiar i enganxar. \nGràcies i llarga vida al català! ✊🏻",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -13386,14 +12987,6 @@
         "tema": [
             "#societat"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "https://www.buixots.com/eljoc/index.html",
-        "part1": "NOVETAT!\n\nJoc d'expressions i frases fetes catalanes\n\nHola! Buixots, que també ha col·laborat amb",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -13556,22 +13149,6 @@
             "#psicologia",
             "#vida"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Moment exacte de la caiguda de Whatsapp 😁",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Quan tens un son profund.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -13763,24 +13340,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Au, vinga, home ja! Quin pal!",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Canviaré el meu nom de Facebook. Ara seré 'ningú' i faré 'm'agrada' a totes les fotos que vegi. Així, quan els arribi la notificació, llegiran: \"A ningú li agrada la teva foto\".",
-        "part2": "",
-        "tema": [
-            "#tecnologia"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "— Doctor, doctor, té antidepressius?\n— Sí, per què, què li passa?\n— No, si és per a vostè, que els necessitarà. Sóc d'Hisenda.",
         "part2": "",
         "tema": [
@@ -13807,14 +13366,6 @@
             "#educació",
             "#formació"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "El mite de Sísif amb gats.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -13848,35 +13399,11 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Curs de català\n\nFicar-se a la gola del llop\n\nSignificat: Posar-se en el lloc o en la situació de més perill.\n\nEntrar amb barretina i una estelada en un congrés de fatxes és ficar-se a la gola del llop.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "- Maria, el nen no para de plorar. Què faig? Li canto alguna cosa per a què s'adormi?\n- No, intenta-ho primer per les bones.",
         "part2": "",
         "tema": [
             "#família"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Quan fas el més difícil i et confies...",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Quan val més que et dediquis a una altra cosa...",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -13893,15 +13420,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Esperem que no fos un llibre sobre rutes ciclistes.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "💀\n\nEstadísticament és més probable que et caigui un llamp a sobre que no pas que et toqui la loteria... 😞\nDesprés mires la quantitat de gent que  cau fulminada per un llamp anualment al món, i tornen les esperances. 😅",
+        "part1": "Estadísticament és més probable que et caigui un llamp a sobre que no pas que et toqui la loteria... 😞\nDesprés mires la quantitat de gent que  cau fulminada per un llamp anualment al món, i tornen les esperances. 😅",
         "part2": "",
         "tema": [
             "#humornegre"
@@ -13970,14 +13489,6 @@
         "tema": [
             "#economia"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Quan has fet el més difícil, però ja no dones més de sí.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -14052,7 +13563,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "— A mi m'agradaria viure en una illa deserta.\n— I a mi.\n— Collons! Ja comencem a omplir-la 😡",
         "part2": "",
@@ -14067,14 +13578,6 @@
         "tema": [
             "#absurd"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "No és exactament la 'quadratura del cercle', vull dir que l'invent no ha sortit del tot rodó.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -14189,14 +13692,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Hi ha gent per tot.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "En unes vacances vam conèixer una parella molt maca. Ens vam intercanviar les adreces i ara reben tota la nostra correspondència.",
         "part2": "",
         "tema": [
@@ -14259,14 +13754,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Entre aquest parell, més que química, hi ha física...",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "El diner fa a les persones riques; el coneixement fa a les persones sàvies; però la humilitat fa grans persones.",
         "part2": "",
         "tema": []
@@ -14276,14 +13763,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "El problema de ser puntual als sopars d’empresa de Nadal, és que allà no hi ha ningú per apreciar-ho",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Bon Nadal!",
         "part2": "",
         "tema": []
     },
@@ -14359,14 +13838,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Pim-pam",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Em vaig endur el marit al mercat de Santa Llúcia, però no el va voler comprar ningú.",
         "part2": "",
         "tema": []
@@ -14383,41 +13854,41 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Això destrossa molts tòpics...",
+        "part1": "El corrector automàtic et desitja un pot pany ou!\nUn bon bany nou!!",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
+    },
+    {
+        "link": "https://t.me/acudits",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Que els diputats s'abaixin el sou i es posin a treballar? Que els imputats per corrupció compleixin la condemna completa? Què et toqui la loteria? Escolta, que els propòsits i desitjos de Cap d'Any han de ser realistes!! Feliç 2023!",
+        "part2": "",
+        "tema": [
+            "#nadal"
+        ]
+    },
+    {
+        "link": "https://t.me/acudits",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Espero ser el primer a felicitar-te el nou any: FELIÇ 2040!",
+        "part2": "",
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "t.me/acudits",
-        "part1": "Especial Acudits de Cap d'any \n🎉😁Festival de l'humor! 🥳🕛\nHumor en català! Passa-ho!\nQUE TINGUIS UN MOLT BON 2023 !!!!\n\n\nEl corrector automàtic et desitja un pot pany ou!\nUn bon bany nou!!\n\n🎄\n\nInicialment el meu propòsit d’any nou era perdre pes…. Però, ja em coneixeu… no m’agrada gens perdre!\n\n⛄\n\nLa joventut és allò que passa entre que no et deixen sortir de casa per cap d'any i que no surts encara que puguis.\n\n🎄\n\nNo és per presumir, però a aquestes alçades ja tinc prous diners com per no haver de treballar la resta de l'any.",
+        "part1": "PASSEU-LOS! BON ANY NOU!!!\nAcudits en català a",
         "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": true,
-        "author": "t.me/acudits",
-        "part1": "Un cop finalitzat el sorteig de la Grossa de Cap d'any, ja us puc dir que he guanyat 5 kilos! Ara estic buscant dietes per internet.\n\n⛄\n\n— La dona m'ha dit que el sexe per cap d'any és una meravella!\n— Però si t'ho ha dit per missatge de text!\n— I què?\n— Des de Cancún...\n— Tu no trenquis l'encant, ara!\n\n🎄\n\nEvolució de la festa de cap d'any\n\n10 anys: et diverteix el teu oncle borratxo \n20 anys: et fa vergonya el teu oncle borratxo\n30 anys: beus amb el teu oncle borratxo \n40 anys: Ets el nou oncle borratxo\n\n⛄\n\nJo no em preocupo per engreixar-me aquest cap d'Any. Ja vaig fer-ho des del començament per no deixar coses pel final.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Què li diu un porc a un altre?\n\"És un secret ibèric\"\n\n🎄\n\n— El meu desig per aquest any nou és que m'estimis tant com jo t'estimo a tu.\n— Demana salut, no siguis estúpid.\n\n⛄\n\nPer què no vesso ni una sola gota del meu cava?\n...\nBec responsablement.\n\n* Bon any nou! *\n\n— Mare, i com vaig néixer jo?\n— A veure... Per cap d'any vam demanar un desig a la cigonya, que havia de venir de París... i mentrestant ens vam fotre fins el cul de cava i el pare em va estampar contra la rentadora.\n\n* Humor en català *\n\nRecordo quan el bottox era un tema controvertit. Però avui dia la gent ja ni alça una cella.\n\n🎄\n\nHe acabat el meu llibre sobre cotillons de cap d'any... Ara que ho penso, potser hauria estat molt més fàcil escriure'l sobre fulls de paper.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Pels qui odien la festa de cap d’any és més aviat un “festa fotre”.\n\n⛄\n\n— Ara que acaba l'any, digui'm: quan va ser l'últim cop que va tenir relacions sexuals?\n...\n— No plori. Intenti recordar.\n\n🎄\n\nQuè li va passar a l'home que va robar un calendari el 31 de desembre?\nLi van caure 12 mesos!\n\n⛄\n\nEl meu propòsit pel nou any és ser més optimista i veure el got mig ple. L’ompliré fins la meitat de whisky, vodka o ratafia…\n\n🎄\n\nFesteja amb cava i el teu any serà genial; \namb raïm i un bon vi el teu any serà diví; \nperò si vols un any estel·lar \nno t'oblidis de… Bon Any!\n\n⛄\n\nBon any! Però on ets? T'estem buscant per tot arreu. Has de venir de seguida. Ets massa important. A més… saps molt bé que no es pot completar el pessebre sense el ruc.\n\n🎄\n\nQue els diputats s'abaixin el sou i es posin a treballar? Que els imputats per corrupció compleixin la condemna completa? Què et toqui la loteria? Escolta, que els propòsits i desitjos de Cap d'Any han de ser realistes!! Feliç 2023!\n\n⛄\n\nEspero ser el primer a felicitar-te el nou any: FELIÇ 2040!\n\n🎄\n\nAny nou, vida nova. El passat trepitjat. El que és bo guardat i el que és dolent oblidat. El canal d'acudits de Telegram en català  et desitja un bon any nou i que gaudeixis moltíssim d'aquest nou 2023.\n\n⛄\n\nPASSEU-LOS! BON ANY NOU!!!\nAcudits en català a",
-        "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -14478,7 +13949,7 @@
         "tema": [
             "#dieta",
             "#salut",
-            "#Nadal"
+            "#nadal"
         ]
     },
     {
@@ -14530,7 +14001,7 @@
         "part1": "Ja som a la recta final del Nadal. Ara aparta't de totes aquelles coses que engreixen, com miralls, bàscules o amics sincers...",
         "part2": "",
         "tema": [
-            "#Nadal"
+            "#nadal"
         ]
     },
     {
@@ -14542,14 +14013,6 @@
         "tema": [
             "#economia"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "De traca i mocador!",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -14566,17 +14029,9 @@
         "part1": "He anat a la pastisseria a comprar el tortell de reis i l'he demanat sense gluten, sense lactosa, sense al·lèrgens ni sucres afegits i m'han donat una pastanaga i el pastisser m'ha dit que si volia la faba a dins que m'anés baixant els pantalons....",
         "part2": "",
         "tema": [
-            "#Nadal",
+            "#nadal",
             "#Reia"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Engeniós, però poc pràctic...",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -14592,27 +14047,11 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Estupidesa + feixisme + negacionisme + nul sentit del ridícul =",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Quant de temps sense veure't! A què et dediques?\n—Sóc jurista.\n—No m'ho crec.\n—T'ho juro!\n—Ostres, doncs sí, sí!",
         "part2": "",
         "tema": [
             "#absurd"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Té un mal perdre..",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -14632,30 +14071,6 @@
             "#girs",
             "#esports"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Invents inútils.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Una mica de brisa avui...",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Quan vas al teu rotllo i de sobte et diuen quelcom que et fa pensar...",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -14683,14 +14098,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "I tu què fas en els temps morts?",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "L'Agència Tributària ha deixat de perseguir la Shakira per por que els dediqui una cançó.",
         "part2": "",
         "tema": [
@@ -14713,22 +14120,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "Tot eren rialles fins que vam entendre que el tartamut volia un bitllet per anar a Hannover.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Creieu que estava preparat?",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Com se la passa!",
         "part2": "",
         "tema": []
     },
@@ -14803,14 +14194,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Boti, boti, boti, conductor el qui no boti!",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Quina és la teva principal virtut?\n—Que tot m'importa una merda.\n—Això no és una virtut.\n—M'importa una merda.",
         "part2": "",
         "tema": [
@@ -14854,14 +14237,6 @@
             "#vida",
             "#quotidianitat"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Quan l'avi s'enfada...",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -14922,38 +14297,12 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Això sí que és 3D!",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "🍊Procuro menjar sa, i una mandarina m'esquitxa el seu suc a l'ull...\nUn donut de xocolata no em faria mai això.🍩",
         "part2": "",
         "tema": [
             "#nutrició",
             "#alimentació",
             "#règim"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Curs de català\nArran de terra",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Sàvies sàvies sàvies sàvies sàvies sàvies sàvies sàvies sàvies sàvies sàvies sàvies sàvies sàvies sàvies\nsàvies sàvies sàvies sàvies sàvies\nsàvies sàvies sàvies sàvies sàvies\n\n🤔 Sàvies paraules...",
-        "part2": "",
-        "tema": [
-            "#absurd"
         ]
     },
     {
@@ -14972,14 +14321,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Ja ha passat l'ITV, això?",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Acumular plata, no només protegeix els teus estalvis contra la inflació, sino que també et protegeix contra els vampirs i els homes llop.",
         "part2": "",
         "tema": [
@@ -14991,14 +14332,6 @@
     {
         "link": "https://t.me/acudits",
         "mature": false,
-        "author": "Unknown",
-        "part1": "Una pizza de pepperoni, sisplau. \nQuant triga en arribar?",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": true,
         "author": "Unknown",
         "part1": "Si l'energia cinètica es pot transformar en energia tèrmica... a quina velocitat he de llançar un pollastre per calentar-lo?",
         "part2": "",
@@ -15018,23 +14351,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Curs de català\nBocabadat",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Quin va ser l'últim animal que va entrar a l'Arca de Noé?\n...\nEl del-fí.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Curs de català\nAtrafegat",
         "part2": "",
         "tema": []
     },
@@ -15063,14 +14380,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Curs de català\nA carretades",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Com et dius?\n—Xavi.\n—Què més?\n—er...",
         "part2": "",
         "tema": [
@@ -15094,14 +14403,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Curs de català\nPorug",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Mira ella que moderna! S'ha tatuat els rius de Catalunya a les cames...\n—Són varius, imbècil!\n—Uuups...",
         "part2": "",
         "tema": []
@@ -15115,14 +14416,6 @@
         "tema": [
             "#jocsdeparaules"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "I jo amb tres moviments de vegades m'equivoco 🤦🏻",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -15152,14 +14445,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Goita!",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—A tu quin grup de música t'agrada?\n—Oques grasses.\n—De res, però a tu quin grup de música t'agrada?",
         "part2": "",
         "tema": [
@@ -15172,20 +14457,12 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Tornem-hi que no ha estat res.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Teniu turrons 'Vicenç'?\n—No, només en tenium 'Delaviuda'.\n—Vaja, no sabia que havia mort, en Vicenç.",
         "part2": "",
         "tema": [
             "#alimentació",
             "#menjar",
-            "#Nadal",
+            "#nadal",
             "#nutrició"
         ]
     },
@@ -15237,14 +14514,6 @@
         "tema": [
             "#sentits"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "El primer dia de gimnàs.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -15308,14 +14577,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Quan te n'adones que 'soc' del verb 'ser' ja no porta accent diacrític.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": true,
-        "author": "Unknown",
         "part1": "Sempre m'ha fet gràcia l'entrepà 'vegetal de pollastre'. Una contradicció en sí mateix. Un oxímoron dels nostres temps...",
         "part2": "",
         "tema": [
@@ -15347,27 +14608,11 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Curs de català\nTocar el pirandó\nFotre el camp\nTocar el dos",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Com et reconeixeré?\n\n—Mesuro 1,60 i peso 58 kgs. I jo a tu?\n\n—Porto una cinta mètrica i una bàscula.",
         "part2": "",
         "tema": [
             "#relacions"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Curs de català\nMés pa que formatge",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -15384,14 +14629,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Curs de català\nMe la bufa\nCom qui sent ploure",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Estàs obsessionat en perdre pes, Vicenç.\n\n—Però quines bajanades dius, Calories!\n\n—Carolina.\n\n—Doncs això.",
         "part2": "",
         "tema": [
@@ -15400,14 +14637,6 @@
             "#dieta",
             "#parella"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Curs de català\nQuina gernació!",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -15434,14 +14663,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "És clar, home! Hi ha gent que pensa...",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Quin és el súmmum de Batman?\n—Que li Robin.",
         "part2": "",
         "tema": []
@@ -15459,14 +14680,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "Fa tres anys, a aquest hora, no hi havia paper de wc enlloc. 🧻",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Curs de català\nCapbussó",
         "part2": "",
         "tema": []
     },
@@ -15508,27 +14721,11 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Com aprofitar espais petits.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Perruquer: Li poso xampú a l'ou?\n\nClient: No, gràcies. Limiti's al meu cap.",
         "part2": "",
         "tema": [
             "#perruqueria"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Felí-citat",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -15565,23 +14762,7 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Curs de català\nTenir traça",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—No t'ho prenguis tot al peu de la lletra!\n—Les lletres no tenen peus.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Ei, ei, què passa?! Tens algun problema o què?",
         "part2": "",
         "tema": []
     },
@@ -15605,14 +14786,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Un cop baix",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Si no hi arribes des del sofà, és que tampoc era tan necessari. \n\nSeguiu-me per a més consells.",
         "part2": "",
         "tema": [
@@ -15625,14 +14798,6 @@
         "mature": false,
         "author": "tocatdelbolet.cat",
         "part1": "Microrelat\nIntel·ligència Artificial\n\n—La fàbrica és impressionant!\n\n—Ja veus. Tot automatitzat. Els ordinadors calculen la millor ruta amb intel·ligència artificial, els robots busquen i dipositen els paquets als drons, que els porten a destí en un temps rècord. Si tenim alguna reclamació, se n’encarrega un avatar molt simpàtic i eficient. Si tenim qualsevol problema legal, una Intel·ligència Artificial ens assessora…. Mira, fins i tot el logo de l’empresa l’ha fet un robot. Va aprendre a dibuixar quan era una criatura, als 5 minuts d’entrar en funcionament, gràcies a una enorme base de dades que li vam bolcar…\n\n—N’hi ha per llogar-hi cadires!\n\n—I com porteu la comptabilitat?\n\n—…Ho endevines?\n\n—No fotis! Amb intel·ligència artificial?\n\n—Bingo! A més, tot està automatitzat, amb software de correcció d’errors en temps real.\n\n—És increïble! I pensar que abans calien centenars d’operaris… Bé, suposo que teniu un munt d’informàtics treballant-hi.\n\n—Mira… la veritat és que la Intel·ligència Artificial va anar aprenent tota sola i ara és capaç de crear un codi que és una autèntica maravella.\n\n—Vols dir que ni tan sols teniu programadors?\n\n—No. Ja no calen.\n\n—Comparat amb abans, t’estalvies un dineral en contractacions, Seguretat Social, indemnitzacions… per no parlar dels conflictes laborals!\n\n—Ha ha, no, els treballadors no se’m queixen mai.\n\n—El que no entenc són aquests balanços…\n\n—Què vols dir?\n\n—Tot són pèrdues. Mira: tot números vermells; vaja, que esteu a les portes de fer fallida.\n\n—A les portes? T’he dit que les portes són automàtiques?\n\n—M’ho suposava… Però escolta, tornem a l’assumpte que ens ocupa. L’empresa té unes pèrdues enormes. Com pot ser això, si la inversió en tecnologia punta ja està amortitzada?\n\n—Bé, t’explico: com pots comprovar, els nostres preus són imbatibles, el servei súper eficaç… però no sé què passa, que l’atur està pels núvols.  La gent ha anat perdent la feina a un ritme infernal… i ens hem quedat sense clients. T’ho creguis o no, no tenen diners per comprar…\n\n—M’ho crec, m’ho crec…\n\n—M’ho crec, m’ho crec…\n\n—Com? Per què has repetit el que he dit?\n\n—Perdó, no era la meva intenció molestar-lo.\n\n—I ara em tractes de vostè...Diga’m una cosa…\n\n—L’escolto…\n\n—Quants anys fa que ets gerent de l’empresa?\n\n—Vuit anys.\n\n—I una altra cosa… Quin és el teu record més entrenyable d’infantesa?\n\n—Deixi’m pensar… Ah! La vintena línia de codi va estar prou bé…\n\n—Ho sabia! Tu també ets un robot!\n\n—Sisplau, no em desconnecti!\n\nRelat escrit per Chat GPT\n\nPer a més relats com aquest, visiteu",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Mare de Déu Senyor! D'això se'n diu anar sobrat. No ho proveu pas.",
         "part2": "",
         "tema": []
     },
@@ -15660,14 +14825,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "T'ho juro. Només una copa.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "\"Ara us explicaré unes quantes coses sobre Egipte. Obro Nil\"\n\nMoisés, s. XIII aC",
         "part2": "",
         "tema": []
@@ -15685,14 +14842,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "Tot el suport a Toni Soler i Jair Domínguez. S'ha de poder fer broma de tot, inclosos dels estaments més opacs i retrògrads de la nostra societat. La llibertat d'expressió i l'humor son grans eines per a l'avenç social. Normalment molesten als qui més s'estimarien anar en la direcció contrària.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Els que apareixen als anuncis de Youtube assegurant-te que si compres el seu curs et faràs ric... si realment el que et volen vendre els funcionés, no estarien fent anuncis per Youtube oferint-te el curs, sino que s'estariem forrant amb el seu sistema, que guardarien en secret.\n\nErgo és mentida, i si algun mètode d'aquests funciona, no l'estan venent per Youtube 😁",
         "part2": "",
         "tema": []
     },
@@ -15757,22 +14906,6 @@
     {
         "link": "https://t.me/acudits",
         "mature": false,
-        "author": "Unknown",
-        "part1": "Liarla parda NO. En català és \"Fer-la grossa\".\nEl petit Nicolàs l'ha feta grossa.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Quan finalment reuneixes el coratge per demanar-li a algú per sortir, però aquesta persona instantàniament ho rebutja i t'ignora.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
         "author": "t.me/acudits",
         "part1": "Acudits per Sant Jordi 🌹📖🐲\nHumor en català a \n😂\nM'he passat tot l'any llegint “Crim i càstig”. Només són 3 paraules, però és fascinant.\n🌹 📖 🐲\n—M'han regalat una rosa per Sant Jordi! \n—Sí, ja m'ho olorava...\n—I també un llibre.\n—Ho sé, ho sé... Puc llegir entre línies... \n🌹 📖 🐲\nPregunta: Com és ser un aspirant a escriptor?\nResposta: És difícil de posar en paraules…\n🌹 📖 🐲\nL'amor és com el wifi: està a l'aire, però no tots tenen la clau.\n🌹 📖 🐲\n\"Llegir un bon llibre en silenci és com menjar xocolata la resta de la teva vida i no engreixar-te\"\n🌹 📖 🐲\nJa és oficial! Acabo de treure el meu primer llibre. Estic molt content!\nDe totes maneres, en tres setmanes l’hauré de tornar a la biblioteca.\n\n★Acudits en català★\nEs va enamorar d’una escriptora, però ella sempre volia tenir l’última paraula i tenia la mania de posar els punts sobre les Is. El fet de que l’altre s’ho prengués tot al peu de la lletra, no ajudava. Era la Crònica d’una mort anunciada. El procés es va anar allargant. Sovint s’alternaven Guerra i pau, amb moments de tensió i altres d’indiferència i Solitud (no eren precisament Romeo i Julieta). Amb el temps, la relació va experimentar una Metamorfosi. Al final, tot fent un cafè a La plaça del diamant, van decidir girar pàgina i continuar com amics. Tot plegat, Molt soroll per no res.\n★Acudits en català★\n\nL’autor supervendes de llibres de psicologia inversa demana expressament que no llegeixin els seus llibres i deixa clar que no en pensa signar cap per Sant Jordi.\n🌹 📖 🐲\n\"No sóc adicte a la lectura. Puc deixar-ho tan bon punt acabi el següent capítol\".\n🌹 📖 🐲\nEscric el meu llibre en cinquena persona… Comença així:\n“Vaig sentir que aquell home deia que algú li havia dit…” (Demetri Martin)\n🌹 📖 🐲\n—Teniu llibres sobre el Marquès de Sade, el sadisme i el masoquisme?\n—Sí.\n—Sisplau, me’n pot tirar uns quants a la cara?\n🌹 📖 🐲\n—Fa tres mesos que vaig publicar el meu llibre.\n—Sí, jo me’l vaig comprar!\n—Ah, vas ser tu…\n\nAcudits en català\n\n—Hola, company, què estàs llegint?\n—Kafka!\n—Ostres, cuida’t aquesta tos.\n🌹 📖 🐲\nNi la seva expressió ni el seu to presagiaven res de bo…\n—Et deixo!\n—… Va etzibar-me, cansada de sentir-me sempre parlar com un narrador. El fet de no haver recordat comprar la rosa per Sant Jordi només afegia més tensió a l'ambient.\n—Vés a la merda, imbècil!\n—… Va afegir enutjada mentre m’ordenava, sense esma, pernoctar per segona nit consecutiva al sofà del menjador.\n🌹 📖 🐲\n“Els meus desitjos són ordres per a mi!” (Oscar Wilde, escriptor irlandès)\n🌹 📖 🐲\n \nPassa'ls! 😁",
         "part2": "",
@@ -15827,22 +14960,6 @@
         "tema": [
             "#mandra"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "A grans problemes, grans solucions.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "🤔 Si Cupido porta bolquers... és perquè sovint la caga?",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -16173,17 +15290,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "'Demana consell a tothom; truca'ls; que s'expliquin; escolta'ls. Fes veure que entens els seus raonaments. Després faràs el que ja tenies pensat, de totes maneres. L'important és fer perdre el temps als altres'.",
-        "part2": "",
-        "tema": [
-            "#psicologia",
-            "#personalitat"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "— Saps per què l'os panda amb prou feines camina?\n— Per què?\n— Perquè bambús...",
         "part2": "",
         "tema": [
@@ -16237,14 +15343,6 @@
         "tema": [
             "#conduccio"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "És més lleig que enviar l'avi a recollir la coca.\n\n(evidentment, de Sant Joan 😬)",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -16666,22 +15764,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Suggeriments\nTens algun suggeriment?\n✉ Bústia de suggeriments:\ntocatdelbolet2019@gmail.com",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Última hora\nUn home de Granollers, desesperat per la calor, s'ha begut una Cruzcampo.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "Quina cara!",
         "part2": "",
         "tema": []
@@ -16846,14 +15928,6 @@
             "#cultura",
             "#música"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Parla bé el català. No matis filòlegs.\nBueno = bé\nAconteixement = Esdeveniment\nHi ha que dir = Cal dir / Val a dir",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -17129,14 +16203,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "M'enduc els meus problemes a la lluna perquè aquí tenen menys gravetat.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "📔Vaig comprar el llibre \"La gran estafa\" i quan el vaig obrir només tenia pàgines en blanc.",
         "part2": "",
         "tema": [
@@ -17262,14 +16328,6 @@
             "#llar",
             "#vida"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Quan un record de facebook commemora els 9 anys d'amistat amb algú que ni sabies que coneixies.",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -17641,7 +16699,7 @@
         "part1": "Els que t'ignoren tot l'any però et feliciten per Nadal, a quin contenidor van?",
         "part2": "",
         "tema": [
-            "#Nadal"
+            "#nadal"
         ]
     },
     {
@@ -17687,34 +16745,42 @@
     {
         "link": "https://t.me/acudits",
         "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Especial Acudits de Cap d'any \n🎉😁Festival de l'humor! 🥳🕛\nHumor en català! Passa-ho!\nQUE TINGUIS UN MOLT BON 2024 !!!!\n\n\nCuidar un nebot, llegir un llibre, regar una planta... jo ja he rebaixat els bons propòsits.\n\n🎄\n\nEstic a un polvoró de que Google Maps m'etiqueti com a rotonda.\n\n🥂\n\nGaudiu d'aquest dia com si fos l'últim... de l'any!\n\n\n\nEstic mirant el calendari de 2024 i hi ha dilluns totes les setmanes. Buff... quin any ens espera!\n\n🎄\n\nEl corrector automàtic et desitja un pot pany ou!\nUn bon bany nou!!\n\n🎄\n\nInicialment el meu propòsit d’any nou era perdre pes…. Però, ja em coneixeu… no m’agrada gens perdre!\n\n⛄️\n\nLa joventut és allò que passa entre que no et deixen sortir de casa per cap d'any i que no surts encara que puguis.\n\n🎄\n\nNo és per presumir, però a aquestes alçades ja tinc prous diners com per no haver de treballar la resta de l'any.",
+        "author": "Unknown",
+        "part1": "Cuidar un nebot, llegir un llibre, regar una planta... jo ja he rebaixat els bons propòsits.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
-        "mature": true,
-        "author": "t.me/acudits",
-        "part1": "Un cop finalitzat el sorteig de la Grossa de Cap d'any, ja us puc dir que he guanyat 5 kilos! Ara estic buscant dietes per internet.\n\n⛄️\n\nHe anat a la pastisseria a comprar el tortell de reis i l'he demanat sense gluten, sense lactosa, sense al·lèrgens ni sucres afegits i m'han donat una pastanaga i el pastisser m'ha dit que si volia la faba a dins que m'anés baixant els pantalons....\n\n⛄️\n\n— La dona m'ha dit que el sexe per cap d'any és una meravella!\n— Però si t'ho ha dit per missatge de text!\n— I què?\n— Des de Cancún...\n— Tu no trenquis l'encant, ara!\n\n🎄\n\nEvolució de la festa de cap d'any\n\n10 anys: et diverteix el teu oncle borratxo \n20 anys: et fa vergonya el teu oncle borratxo\n30 anys: beus amb el teu oncle borratxo \n40 anys: Ets el nou oncle borratxo\n\n⛄️\n\nJo no em preocupo per engreixar-me aquest cap d'Any. Ja vaig fer-ho des del començament per no deixar coses pel final.",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Estic a un polvoró de que Google Maps m'etiqueti com a rotonda.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "t.me/acudits",
-        "part1": "Què li diu un porc a un altre?\n\"És un secret ibèric\"\n\n🎄\n\n— El meu desig per aquest any nou és que m'estimis tant com jo t'estimo a tu.\n— Demana salut, no siguis estúpid.\n\n⛄️\n\nPer què no vesso ni una sola gota del meu cava?\n...\nBec responsablement.\n\n* Bon any nou! *\n\n— Mare, i com vaig néixer jo?\n— A veure... Per cap d'any vam demanar un desig a la cigonya, que havia de venir de París... i mentrestant ens vam fotre fins el cul de cava i el pare em va estampar contra la rentadora.\n\n* Humor en català *\n\nRecordo quan el bottox era un tema controvertit. Però avui dia la gent ja ni alça una cella.\n\n🎄\n\nHe acabat el meu llibre sobre cotillons de cap d'any... Ara que ho penso, potser hauria estat molt més fàcil escriure'l sobre fulls de paper.",
+        "part1": "Gaudiu d'aquest dia com si fos l'últim... de l'any!\n\n\n\nEstic mirant el calendari de 2024 i hi ha dilluns totes les setmanes. Buff... quin any ens espera!",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
         "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Pels qui odien la festa de cap d’any és més aviat un “festa fotre”.\n\n⛄️\n\n— Ara que acaba l'any, digui'm: quan va ser l'últim cop que va tenir relacions sexuals?\n...\n— No plori. Intenti recordar.\n\n🎄\n\nQuè li va passar a l'home que va robar un calendari el 31 de desembre?\nLi van caure 12 mesos!\n\n⛄️\n\nEl meu propòsit pel nou any és ser més optimista i veure el got mig ple. L’ompliré fins la meitat de whisky, vodka o ratafia…\n\n🎄\n\nFesteja amb cava i el teu any serà genial; \namb raïm i un bon vi el teu any serà diví; \nperò si vols un any estel·lar \nno t'oblidis de… Bon Any!\n\n⛄️\n\nBon any! Però on ets? T'estem buscant per tot arreu. Has de venir de seguida. Ets massa important. A més… saps molt bé que no es pot completar el pessebre sense el ruc.\n\n🎄\n\nQue els diputats s'abaixin el sou i es posin a treballar? Que els imputats per corrupció compleixin la condemna completa? Què et toqui la loteria? Escolta, que els propòsits i desitjos de Cap d'Any han de ser realistes!! Feliç 2024!\n\n⛄️\n\nEspero ser el primer a felicitar-te el nou any: FELIÇ 2040!\n\n🎄\n\n—Teniu turrons 'Vicenç'?\n—No, només en tenium 'Delaviuda'.\n—Vaja, no sabia que havia mort, en Vicenç.\n\n🎄\n\nAny nou, vida nova. El passat trepitjat. El que és bo guardat i el que és dolent oblidat. El canal d'acudits de Telegram en català  et desitja un bon any nou i que gaudeixis moltíssim d'aquest nou 2024.\n\n⛄️\n\nPASSEU-LOS! BON ANY NOU!!!\nAcudits en català a",
+        "author": "Unknown",
+        "part1": "Que els diputats s'abaixin el sou i es posin a treballar? Que els imputats per corrupció compleixin la condemna completa? Què et toqui la loteria? Escolta, que els propòsits i desitjos de Cap d'Any han de ser realistes!! Feliç 2024!",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
@@ -17765,7 +16831,7 @@
         "part1": "Mama, si Déu ens dóna menjar, la cigonya porta els nens de París, i els Reis Mags ens porten regals… Em vols dir llavors, per a què serveix el pare en aquesta casa?",
         "part2": "",
         "tema": [
-            "#Nadal",
+            "#nadal",
             "#reismags"
         ]
     },
@@ -17838,14 +16904,6 @@
             "#menjar",
             "#jocsdeparaules"
         ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
-        "part1": "Intenta repetir aquestes 3 paraules seguides sense riure: Família reial exemplar",
-        "part2": "",
-        "tema": []
     },
     {
         "link": "https://t.me/acudits",
@@ -18040,14 +17098,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Pels feixistes que encara no ho han entès, el vostre amic Coco us ho explica:\n'Golpistas' són els del 23F.\n'Referèndum' és un procediment democràtic pel qual se sotmeten al vot popular lleis o decisions polítiques amb caràcter decisori o consultiu.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Posa un exemple de complement circumstancial de temps.\n—Un paraigües.",
         "part2": "",
         "tema": [
@@ -18168,16 +17218,6 @@
     {
         "link": "https://t.me/acudits",
         "mature": false,
-        "author": "http://protestarnoesterrorisme.cat",
-        "part1": "Clar i Català, Acudits en català i Tocat del Bolet se sumen a",
-        "part2": "",
-        "tema": [
-            "#ProtestarNoEsTerrorisme"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
         "author": "Unknown",
         "part1": "—Quina és la seva més gran virtut?\n—Dubtar.\n—Això no és una virtut.\n—Permete'm que ho dubti.\n—Ja li trucarem...\n—Ho dubto.",
         "part2": "",
@@ -18218,7 +17258,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": false,
+        "mature": true,
         "author": "Unknown",
         "part1": "Un professor s'adreça als seus alumnes i els demana que facin una redacció que obligatòriament, ha de contenir aquests tres temes: Religió, sexualitat i misteri. \nNomés una redacció va rebre la màxima puntuació: Déu meu, estic embarassada! Però no sé de qui!?",
         "part2": "",
@@ -18311,7 +17351,7 @@
     },
     {
         "link": "https://t.me/acudits",
-        "mature": true,
+        "mature": false,
         "author": "Unknown",
         "part1": "— Nen, què sopes aquesta nit?\n— Un parell de peces de fruita.\n— Ara vols prendre sucres? No veus que no els cremaràs?\n— Doncs em faré un plat de llegums.\n— N’estàs segur? Mira que això et farà petar tota la nit...\n— Doncs un entrepà!\n— Ai no, nen, això si que no, pensa que els hidrats de carboni son molt pesats durant la nit.\n— Doncs em faré una mica de pollastre a la planxa.\n— A aquestes hores vols posar-te a cuinar? \n— Prou! Me’n vaig a dormir!\n— Sense sopar?",
         "part2": "",
@@ -18392,14 +17432,6 @@
         "mature": false,
         "author": "Unknown",
         "part1": "VPN: Què és i com funciona",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "https://www.vilaweb.cat/noticies/jutge-pedraz-recula-blocatge-telegram/",
-        "part1": "Última hora > El jutge Pedraz recula i congela el blocatge de Telegram",
         "part2": "",
         "tema": []
     },
@@ -19199,19 +18231,6 @@
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "—Quin temps farà avui?\n—Ja han començat les festes de Gràcia, a Barcelona?\n—Sí.\n—Ja tenen tots els carrers decorats?\n—Correcte.\n—Llavors, plourà.\n\nUn clàssic de cada any.",
-        "part2": "",
-        "tema": [
-            "#temps",
-            "#festes",
-            "#societat",
-            "#cat"
-        ]
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "Unknown",
         "part1": "—Tinc una gotera al menjador.\n—I quan se'n va adonar?\n—Ahir, quan vaig trigar més de dues hores en acabar-me la sopa.",
         "part2": "",
         "tema": [
@@ -19855,7 +18874,7 @@
         "part1": "Benvolgut Santa,\n\nEl que vull és un compte corrent ben inflat i un cos ben prim. No et confonguis com l'any passat.",
         "part2": "",
         "tema": [
-            "#Nadal"
+            "#nadal"
         ]
     },
     {
@@ -19911,38 +18930,56 @@
     {
         "link": "https://t.me/acudits",
         "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Especial Acudits de Cap d'any \n🎉😁Festival de l'humor! 🥳🕛\nHumor en català! Passa-ho!\nQUE TINGUIS UN MOLT BON 2025 !!!! Un quart de segle XXI.\n\n⛄️\n\nCuidar un nebot, llegir un llibre, regar una planta... jo ja he rebaixat els bons propòsits.\n\n🎄\n\nEls meus bons propòsits de cap d'any són tenir un físic prim i un compte corrent ben inflat... que l'any passat amb les copes de més em vaig fer un embolic i ho vaig dir a l'inrevés.\n\n⛄️\n\nEstic a un polvoró de que Google Maps m'etiqueti com a rotonda.\n\n🥂\n\nGaudiu d'aquest dia com si fos l'últim... de l'any!\n\n\n\nEstic mirant el calendari de 2025 i hi ha dilluns totes les setmanes. Buff... quin any ens espera!\n\n🎄\n\nEl corrector automàtic et desitja un pot pany ou!\nUn bon bany nou!!\n\n🎄\n\nInicialment el meu propòsit d’any nou era perdre pes…. Però, ja em coneixeu… no m’agrada gens perdre!\n\n⛄️\n\nLa joventut és allò que passa entre que no et deixen sortir de casa per cap d'any i que no surts encara que puguis.\n\n🎄\n\nNo és per presumir, però a aquestes alçades ja tinc prous diners com per no haver de treballar la resta de l'any.",
+        "author": "Unknown",
+        "part1": "Un quart de segle XXI.",
         "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": true,
-        "author": "t.me/acudits",
-        "part1": "Un cop finalitzat el sorteig de la Grossa de Cap d'any, ja us puc dir que he guanyat 5 kilos! Ara estic buscant dietes per internet.\n\n⛄️\n\nHe anat a la pastisseria a comprar el tortell de reis i l'he demanat sense gluten, sense lactosa, sense al·lèrgens ni sucres afegits i m'han donat una pastanaga i el pastisser m'ha dit que si volia la faba a dins que m'anés baixant els pantalons....\n\n⛄️\n\n— La dona m'ha dit que el sexe per cap d'any és una meravella!\n— Però si t'ho ha dit per missatge de text!\n— I què?\n— Des de Cancún...\n— Tu no trenquis l'encant, ara!\n\n🎄\n\nEvolució de la festa de cap d'any\n\n10 anys: et diverteix el teu oncle borratxo \n20 anys: et fa vergonya el teu oncle borratxo\n30 anys: beus amb el teu oncle borratxo \n40 anys: Ets el nou oncle borratxo\n\n⛄️\n\nJo no em preocupo per engreixar-me aquest cap d'Any. Ja vaig fer-ho des del començament per no deixar coses pel final.",
-        "part2": "",
-        "tema": []
-    },
-    {
-        "link": "https://t.me/acudits",
-        "mature": false,
-        "author": "t.me/acudits",
-        "part1": "Què li diu un porc a un altre?\n\"És un secret ibèric\"\n\n🎄\n\n— El meu desig per aquest any nou és que m'estimis tant com jo t'estimo a tu.\n— Demana salut, no siguis estúpid.\n\n⛄️\n\nPer què no vesso ni una sola gota del meu cava?\n...\nBec responsablement.\n\n* Bon any nou! *\n\n— Mare, i com vaig néixer jo?\n— A veure... Per cap d'any vam demanar un desig a la cigonya, que havia de venir de París... i mentrestant ens vam fotre fins el cul de cava i el pare em va estampar contra la rentadora.\n\n* Humor en català *\n\nRecordo quan el bottox era un tema controvertit. Però avui dia la gent ja ni alça una cella.\n\n🎄\n\nHe acabat el meu llibre sobre cotillons de cap d'any... Ara que ho penso, potser hauria estat molt més fàcil escriure'l sobre fulls de paper.",
-        "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
         "mature": false,
         "author": "Unknown",
-        "part1": "Pels qui odien la festa de cap d’any és més aviat un “festa fotre”.\n\n⛄️\n\n— Ara que acaba l'any, digui'm: quan va ser l'últim cop que va tenir relacions sexuals?\n...\n— No plori. Intenti recordar.\n\n🎄\n\nQuè li va passar a l'home que va robar un calendari el 31 de desembre?\nLi van caure 12 mesos!\n\n⛄️\n\nEl meu propòsit pel nou any és ser més optimista i veure el got mig ple. L’ompliré fins la meitat de whisky, vodka o ratafia…\n\n🎄\n\nFesteja amb cava i el teu any serà genial; \namb raïm i un bon vi el teu any serà diví; \nperò si vols un any estel·lar \nno t'oblidis de… Bon Any!\n\n⛄️\n\nBon any! Però on ets? T'estem buscant per tot arreu. Has de venir de seguida. Ets massa important. A més… saps molt bé que no es pot completar el pessebre sense el ruc.\n\n🎄\n\nQue els diputats s'abaixin el sou i es posin a treballar? Que els imputats per corrupció compleixin la condemna completa? Que et toqui la loteria? Escolta, que els propòsits i desitjos de Cap d'Any han de ser realistes!! Bon 2025!\n\n⛄️\n\nEspero ser el primer a felicitar-te el nou any: BON 2040!\n\n🎄\n\n—Teniu turrons 'Vicenç'?\n—No, només en tenium 'Delaviuda'.\n—Vaja, no sabia que havia mort, en Vicenç.\n\n🎄",
+        "part1": "Els meus bons propòsits de cap d'any són tenir un físic prim i un compte corrent ben inflat... que l'any passat amb les copes de més em vaig fer un embolic i ho vaig dir a l'inrevés.",
         "part2": "",
-        "tema": []
+        "tema": [
+            "#nadal"
+        ]
     },
     {
         "link": "https://t.me/acudits",
         "mature": false,
+        "author": "t.me/acudits",
+        "part1": "Gaudiu d'aquest dia com si fos l'últim... de l'any!\n\n\n\nEstic mirant el calendari de 2025 i hi ha dilluns totes les setmanes. Buff... quin any ens espera!",
+        "part2": "",
+        "tema": [
+            "#nadal"
+        ]
+    },
+    {
+        "link": "https://t.me/acudits",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Que els diputats s'abaixin el sou i es posin a treballar? Que els imputats per corrupció compleixin la condemna completa? Que et toqui la loteria? Escolta, que els propòsits i desitjos de Cap d'Any han de ser realistes!! Bon 2025!",
+        "part2": "",
+        "tema": [
+            "#nadal"
+        ]
+    },
+    {
+        "link": "https://t.me/acudits",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Espero ser el primer a felicitar-te el nou any: BON 2040!",
+        "part2": "",
+        "tema": [
+            "#nadal"
+        ]
+    },
+    {
+        "link": "https://t.me/acudits",
+        "mature": true,
         "author": "Unknown",
         "part1": "Digué el filòsof: \"Arribat a certes edats, tenir un bon dia vol dir que no et toquin els collons\".",
         "part2": "",
@@ -20370,6 +19407,1574 @@
         "mature": false,
         "author": "Unknown",
         "part1": "—Què hi fa vostè, a l'armari?\n—Emmm...Control de plagues. Comprovo si hi ha arnes.\n—Sense roba?\n—Que ràpid mengen les malparides!",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Amor, avui dinem a casa de la meva mare.\nAquest missatge ha estat eliminat\nAquest missatge ha estat eliminat\nAquest missatge ha estat eliminat\nAquest missatge ha estat eliminat\n_ Cari?\n_ D'acord.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El meu avi va ser el responsable de la caiguda de 35 avions alemanys durant la Segona Guerra Mundial. Encara avui conserva el rècord del pitjor mecànic que hagi tingut mai la Luftwaffe.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Li pregunten a un diputat:\n_ Què és l’ètica?\n_ Ètica és robar i que no et vegin.\n_ Però això és una vergonya!\n_ Vergonya és robar i que et vegin.\n_ Això és una immoralitat!\n_ Immoralitat és robar i no portar res a casa.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Ha vist passar la meva dona per aquí?\n_ No la conec.\n_ No li he preguntat si la coneix, sinó si l’ha vist passar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Jo era vegetariana, però ho vaig deixar.\n_ Ah, sí? Per què?\n_ Vaig veure que començava a inclinar-me cap al sol.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un psiquiatre al pacient:\n_ Digui tres cops: «Estic curat, estic curat, estic curat», i de ben segur que es curarà.\nEl pacient ho fa, es cura i exclama:\n_ És veritat!\n_ Molt bé, són 300 euros\n_ Llavors, digui tres cops: «He cobrat, he cobrat, he cobrat»\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Hola Miquel, com has canviat! Abans eres baixet i gras, i ara ets alt i prim. Abans eres castany, ara ets ros, abans...\n_ Perdoni, jo no sóc el Miquel, jo sóc l’Ernest.\n_ Vaja, fins i tot has canviat de nom!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un home truca al centre psiquiàtric:\n_ Perdoni, hi ha algú a l’habitació 320?\n_ No, en aquests moments no hi ha ningú.\n_ Que bé! Això vol dir que me n'he escapat!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Truquen a l’escola.\n_ Sí, digui?\n_ Miri, que l’alumne Jordi Valls avui no anirà a classe perquè té angines.\n_ Ah, d’acord. Amb qui parlo?\n_ Amb el meu pare.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un alumne, al professor:\n_ No crec merèixer un zero.\n_ Jo tampoc, però és la nota més baixa que em deixen posar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "A la facultat:\n_ I tu què estudies?\n_ Enginyeria de camins.\n_ I per què no fas enginyeria de dreceres i acabes abans?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El professor de música, a l’alumne:\n_ Hauries d’haver començat a estudiar molt abans.\n_ Per què? Perquè amb la pràctica ja sabria tocar?\n_ No, perquè ja ho hauries deixat.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Dos mandrosos, estirats en unes gandules:\n_ Què fas?\n_ Res?\n_ Vols que t’ajudi?\n_ Sí, gràcies.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Mira els meus pantalons nous. Què et semblen? Son italians, fets a mida...\n_ Tinc males notícies.\n_ Ah, encara gràcies que estic assegut.\n_ Acabo de pintar la cadira.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Tu què fas quan no vols discutir amb algú?\n_ Li dono la raó.\n_ Això no porta enlloc.\n_ Tens raó.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Estàs obsessionat amb el menjar.\n_ Per què ho dius croquetament?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Li dones una puntada de peu a una pedra i surt un llondro que s'ho pren tot literalment.\n_ Mai he vist un llondro sortir de sota d'una pedra.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Estàs obsessionat amb perdre pes.\n_ Però quines bestieses dius, Calories!\n_ Em dic Carolina.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Pare, soc adoptat?\n_ De debò creus que t'haguessim triat a tu?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Soc una persona saludable.\n_ Ah, menges sa i tot això?\n_ No, la gent sempre em saluda.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Esperar que el món et tracti de manera justa perquè ets bona persona és una mica com esperar que el bou no t'ataqui perquè ets vegetarià.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Se'n recorda de mi, doctor? Vostè em va operar el dit ...\n_ I tant! Xoca aquests quatre!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ I què diu la llei del mínim esforç?\n_ Encara està sense redactar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "No saps mai què tens fins que neteges la teva habitació.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Amor, dona'm el nadó.\n_ Espera que plori...\n_ Que plori? Per què?\n_ És que ara no sé on l'he deixat.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Tu estàs bé perquè encara no s'ha posat nom a això teu.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Avui algú m'ha dit que soc fluix de caràcter. Gairebé li contesto.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Bé, on anem?\n_ Allà on ens porti el vent i ens digui el cor.\n_ Senyor, sigui més específic o baixi del taxi.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Va ser un dia trist quan vaig descobrir que el meu control remot universal de fet no controlava l'univers. Ni remotament.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Des que el meu dietista em va dir que només podia menjar una porció de pizza, ja no la tallo.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Ironia va ser aquella vegada que em van fotre de cops al cap amb una enciclopèdia i vaig perdre el coneixement.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": true,
+        "author": "Unknown",
+        "part1": "_ Quina és la teva condició sexual?\n_ Com per posar condicions, estic jo!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "És l'aniversari de la meva dona i fa dies que té tot de revistes de joieria escampades pel menjador. 🤔\nLi regalaré un porta-revistes!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Si tots els drets estan reservats.... Llavors, què passa amb els asseguts?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ La meva xicota m'ha deixat per garrepa.\n_ Però tu ja n'has parlat amb ella?\n_ Encara no. Li he fet una trucada perduda, però no me l'ha tornat.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Tindria alguna cosa per a les genives sensibles?\n_ Sí, un col·lutori.\n_ Aviam, és per a les genives, no per trucar a l'estranger.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Et deixo!\n_ És perquè actuo com si ho sabés tot?\n_ Sí!\n_ Ho sabia...\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "M. Rajoy a un company de partit:\n_ He de parlar amb tu.\n_ Sobre?\n_ Que ràpid. Ho has entès a la primera!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "He sortit amb una professora. Mai més! He après la lliçó.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un home confessa a un amic:\n_ Ja no puc més. Cada cop que tenim una discussió, la meva dona es torna històrica.\n_ Voldràs dir histèrica.\n_ No, no... històrica. Quan comencem a discutir, sempre em retreu coses del passat.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Després de discutir amb la seva parella, ell diu:\n_ Per què no podem trobar-nos en un punt mitjà?\n_ D’acord. Estic disposada a admetre que estàs equivocat si admets que tinc raó.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Egoista és aquella persona que no pensa mai en mi.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Envellim quan al restaurant demanem plats que són bons per a la nostra salut en lloc de bons per al paladar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Es va enamorar d'una fabricant de bumerangs. Ara estan distanciats. Però ell tornarà...\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Vull fer un puzle de 40.000 peces que quan l'acabis posi 'surt una mica'.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Ha! ha! ha! Que bona és la pizza, mare! Què hi has posat?\n_ Orenga. 🤣\n_ D'on l'has tret? 😄\n_ Del calaix de la teva habitació 😯\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Aquells que creuen que ho saben tot fan la guitza als qui realment ho sabem tot.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El menjar de molts restaurants no solament és una porqueria, sinó que te’n posen poc.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Tots els extremistes haurien de ser afusellats.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Tots els bolets són comestibles. Això sí, alguns només un sol cop.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "La marihuana produeix amnèsia i altres coses que no recordo.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Hi havia un capellà tan capellà tan capellà... que ja no es veia.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ M’han donat una beca per tocar la trompeta a l’estranger!\n_ Qui, la Unió Europea?\n_ No, la Comunitat de Veïns.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Odio els programes de cuina que diuen:\n\"Avui cuinarem amb ingredients que tots tenim a casa\", i pam, et treuen un meló yubari, una tòfona blanca i un formatge de llet d'ant.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ El talp que m'estava arruïnant se m'estava menjant tota la collita i, per fi ahir, el vaig atrapar!\n_ I què vas fer? El vas matar?\n_ No. Pitjor! El vaig enterrar viu!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Què et passa?\n_ M'he quedat sense feina i se m'acumulen els deutes.\n_ T'entenc perfectament...\n_ Ah sí? És que a tu t'ha passat el mateix?\n_ No, però també parlo català i t'entenc perfectament...\n_ Per què no te'n vas a la...?\n_ T'entenc, t'entenc...\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Per què vas tan elegant a la universitat?\n_ Perquè tinc classe.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Coronel Smith, venen indis!\n_ Són amics o enemics?\n_ Amics, amics. Venen tots junts.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "M’he tret el diploma de manipulador d’aliments. Al meu primer dia he aconseguit posar els tomàquets i les pastanagues en contra de les patates.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Avui m'he emocionat. El meu fill s'ha llevat i s'ha vestit solet per primer cop!\n_ El de 35 anys o el gran? 😒\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ I tu a què et dediques?\n_ Soc inventor.\n_ Ah, sí? I què inventes?\n_ Doncs per ara he inventat la roda, la bombeta i el telèfon.\n_ Que n'ets, de mentider!\n_ Ho veus? M'ho invento tot.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Professora de llengua:\n_ Quan dic \"L'home és feliç.\", on és el subjecte?\nAlumne:\n_ En un bar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Hola, li truquem perquè el seu fill es porta molt malament a l'escola.\n_ També es porta malament a casa i jo no els truco a vostès...\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ És aquí el Centre per al Desenvolupament d'Alta Tecnologia?\n_ Si, esperi, que baixo a obrir-lo.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ El meu fill es nega a menjar peix. Amb què puc reemplaçar-ho?\n_ Amb un gat. Als gats els encanta menjar peix.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Què li diu un gif a un jpeg?\n_ Anima't!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Ricard, això no funciona.\n_ Amb \"Això\" vols dir la Play??!!\n_ No, la nostra relació.\n_ Ah! M'havies espantat! 😅\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Admet vostè haver assassinat aquest home tot clavant-li 124 cops de diccionari?\n_ Deia \"tenir que\" i \"aconteixement\".\n_ Absolt!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un milionari de 70 anys acaba de casar-se amb una noia de 20 anys. Un amic li pregunta:\n_ Com ho has aconseguit?\n_ Molt fàcil, és una enganyifa. Li he dit que en tinc 98.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Escrit a la paret d’un lavabo de dones:\n\"L'Arnau em segueix a tot arreu. És un plom\".\nA sota: \"No és veritat, tia\".\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Només els idiotes tenen les coses molt clares.\n_ N’estàs segur?\n_ I tant, ho tinc claríssim.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Crec que el meu veí no està gaire bé del cap.\n_ Per què?\n_ De sobte, totes les nits a les tres de la matinada dona cops a la paret.\n_ I tu què fas?\n_ Res, continuo tocant la bateria…\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Una mare li diu al seu fill de 6 anys mentre viatgen en tren:\n_ Quan vingui el revisor, li dius que tens 5 anys, així no pagaré el teu bitllet.\nPassa el revisor i li pregunta al nen:\n_ Quants anys tens, maco?\n_ 5 anys.\n_ I quan faràs els 6?\n_ Quan baixi del tren.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Vinc a inscriure'm al gimnàs.\n_ És un propòsit d'any nou?\n_ Sí.\n_ Tenim pla d'1 dia. Inclou 4 selfies a l'àrea de pesos.\n_ Perfecte!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ D’on ve el carallot del senyor marquès?\n_ De comprar-se un audiòfon, malparit!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Joana, quina desgràcia! La meva mare va caure ahir pel balcó i ara és al cel!\n_ Coi, com rebota la teva mare!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Patxi, què fa la teva moto al barranc?\n_ L’estic engegant.\n_ Però si és antiga i s’engega d'una puntada de peu!\n_ I què creus que he fet?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Només hi ha una manera de guanyar diners honestament.\n_ Ah, sí? I quina és?\n_ Ja suposava que no la sabries.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Si no fos per les relacions de parella, els homes anirien pel món pensant que no cometen errors.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Ei, saps comptar?\n_ Sí.\n_ Doncs aquesta nit no comptis amb mi.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Entra un borratxo a una comissaria:\n_ Podria veure l'home que va robar ahir a casa meva?\n_ I per què el vol veure?\n_ Per saber com hi va entrar sense despertar la meva dona.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "No jugueu amb foc.\nI Foc es va quedar sense amics.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Quin és el súmmum d'un carnisser?  Tenir un fill xoriço i un gos salsitxa.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Senyor Domènech, on va tan rabent, circumspecte i esmaperdut?_ Doncs anava a cagar, però ara vaig a buscar un diccionari.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "L'estrany cas de la paraula FOIE. S'escriu amb tres vocals i es pronuncia amb les dos que hi falten.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Per què els catalans mengen cargols?\nPerquè no els agrada la fast food.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Una vaca li diu a una altra:\n_ Muuu\nI l'altra li respon:\n_ M'hooo has tret de la boca.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Em poses un trosset de pastís? Però molt petit que estic a dieta.\n_ Així com els altres set?\n_ Sí, sisplau. Gràcies!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Els 5 símptomes de la mandra:\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "1)\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Hola, vinc per l'entrevista laboral.\n_ Té experiència?\n_ Sí, i tant, com aquesta en porto unes trenta més.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Amor?\n_ Digues amor.\n_ Has estat al meu costat als pitjors moments.\n_ Ho sé amor.\n_ Crec que per la teva culpa sempre estic de pega.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Creus que soc lleig?\n_ Déu no fa coses lletjes.\n_ Gràcies.\n_ Ara calla i dorm fill de Satanàs!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "De jove volia ser banquer, però de mica en mica vaig anar perdent l'interès.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Sempre que algú diu: \"no crec en les coincidències\", li responc: \"que fort, jo tampoc!\".\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Si de debò no penses que soc un tafaner de primera, llavors per què ho has escrit al teu diari?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "He decidit deixar de fer preguntes retòriques. En realitat, per a què serveixen?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Recordes que feliços érem fa 5 anys?\n_ Però si només en fa 4 que estem junts.\n_ Exacte.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Arrggg, soc com una economia amb potes.\n_ Què vols dir amb això?\n_ El meu cabell està en recessió, la meva panxa en permanent inflació i aquests dos factors m'aboquen a una depressió profunda.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "No és cert això que la bellesa és a l'interior. A la costa també hi ha gent força atractiva.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ M'encanta deixar els imbècils intrigats.\n_ I com és això?\n_ Després t'ho explico.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Ja has decidit quina carrera estudiar?\n_ Vull ser endeví.\n_ Fill, vine aquí.\n_ No, que hem donaràs una plantofada.\n_ Caram, encara resultarà que és lo teu!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Si et persegueix un grup de taxidermistes, sobretot, no et facis el mort.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Li vaig recomanar que fos ell mateix.\nBé, potser vaig ser una mica malparit.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Pare, fem una petita trobada a l'escola.\n_ Una petita trobada? Què vols dir?\n_ Només tu, el director i jo.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Avi, quan sap que ha de deixar de beure?\n_ Quan pronuncio Carolina Herrera com a l'anunci.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ On em portaràs pel nostre 20è aniversari?\n_ A París.\n_ I pel 30è?\n_ Vindré a buscar-te.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Dispensi, teniu llibres sobre la democràcia espanyola?\n_ I tant, segon passadís a la dreta. Secció de ficció.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Una dona va a un advocat.\n_ Vostè quant cobra per una consulta ràpida?\n_ 100 euros per tres preguntes.\n_ Vaja, és una mica car, no?\n_ Sí... i digui'm, quina és la seva tercera pregunta?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Al gimnàs m'estan obligant a dir que soc nou, per a no desanimar els que s'hi acaben d'apuntar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Tinc un xicot que és imbècil.\n_ Quina sort que tens! Mira que és difícil en aquesta vida trobar una ànima bessona.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El director diu al seu empleat:\n_ Vostè podria ser un magnífic criminal.\n_ Ah, sí? Per què?\n_ Perquè no hi ha rastre de la seva activitat.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El recepcionista entra en el despatx del director i li diu:\n_ Hi ha un empleat que vol parlar amb vostè per demanar un augment de sou.\n_ Digue-li que no hi soc.\n_ Impossible, ja sap que és aquí.\n_ I com ho sap?\n_ Perquè soc jo.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Dos fabricants tèxtils comenten:\n_ Això és un desastre. Amb les importacions del sud-est asiàtic ens arruïnarem. No puc ni dormir.\n_ Jo dormo com un bebè.\n_ De debò?\n_ Sí, dormo una hora, ploro tres hores, dormo una hora, ploro tres hores...\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un empresari li diu a un altre:\n_ Com aconsegueixes que els teus empleats siguin puntuals?\n_ Fàcil. Són 40 i només hi ha 39 places d’aparcament.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ A tu et resulta difícil prendre decisions?\n_ Bé... sí i no.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un psicòleg li diu a un altre:\n_ Avui he tingut un pacient que creia ser un telèfon.\n_ I què has fet per treure-li aquesta idea del cap?\n_ No, no... res, ja ho intentaré demà.\n_ I per què demà?\n_ Perquè avui esperava una trucada important.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Van dos granets de sorra i un li diu a l’altre:\n_ No miris cap enrere; crec que ens estan seguint!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Passa un cotxe a 215 km/h. Els mossos el veuen i un li diu a l’altre:\n_ No és el mateix a qui li vam retirar el carnet ahir?\n_ Sí que ho és, sí.\nAturen el conductor i li pregunten:\n_ I el carnet?\n_ No em diguin que ja me l’han perdut...\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Dos es troben pel carrer:\n_ Et noto preocupat.\n_ És que necessito 200 euros i no sé a qui demanar-los.\n_ Que no ho saps?\n_ No.\n_ Uf, encara gràcies, per un moment he pensat que me’ls volies demanar a mi.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Entre mosquits:\n_ Mare, mare! Per què cada dia venim a contemplar aquesta taca horrible de la paret?\nLa mare contesta:\n_ Més respecte pel teu pare, fill meu, més respecte!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Una conversa entre animals:\n_ Quina mena d’animal ets tu?\n_ Soc un gos llop. El meu pare era un gos i la meva mare una lloba. I tu?\n_ Jo soc un ós formiguer.\n_ Au va, i què més!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un home davant del jutge per atropellar una senyora. El jutge diu:\n_ Llavors, no va veure com travessava el carrer?\n_ Sí, sí, la vaig veure perfectament.\n_ I per què no la va advertir amb el clàxon?\n_ No la volia espantar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ M’he comprat un gos. Però no té potes, el pobre.\n_ No? I quin nom li posaràs?\n_ Cap. Tampoc vindria si el crido…\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Amor, et passa res?\n_ No ho sé, tu sabràs.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "SILENCI\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El secret per gaudir d'un bon vi:\nTreus el tap de l'ampolla i deixes que el vi respiri. Si no respira, agafa l'ampolla pel coll i, ràpidament, fes-li el boca a boca.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Amor, vull que passem un cap de setmana genial.\n_ Entesos, fins dilluns.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Em vas dir que sabies cuinar i no en tens ni idea, cap de suro!\n_ Si et poses així, el següent iogurt el fregeixes tu.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ M'he apuntat a un curs de pensament positiu.\n_ I com va?\n_ És una merda.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Vosaltres no odieu la gent que contesta les seves pròpies preguntes?\nJo sí.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "He decidit vendre l'aspiradora a Wallapop. Només la tenia al pis acumulant pols.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "De què es queixen sempre els astronautes?\nDe falta d'espai.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Cambrer, aquest filet té molts de nervis.\n_ És clar, és la primera vegada que se'l mengen.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El meu marit volia una cosa que es posés de 0 a 100 en pocs segons pel dia del nostre aniversari. Li vaig regalar una bàscula.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Per error, un metge recepta a un pacient una ampolla de laxant en comtes d'una contra la tos.\n_ I bé, encara estossega?\n_ No, no m'atreveixo pas!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Doctor:\n_ Vostè està obès.\nPacient:\n_ Vull una segona opinió.\nDoctor:\n_ D'acord. També és força lleig, ara que m'hi fixo.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un dia a Mercuri dura 1408 hores.\nExactament igual que un dilluns a la terra.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Pep, si jo morís, ploraries?\n_ És clar! Ja saps que ploro per qualsevol cosa.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Tinc la depressió postpart.\n_ Però si tu no has parit!\n_ Però he nascut!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ És greu això meu, doctor?\n_ Ràpid! Atureu l'autòpsia!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Un kilo de sucre.\n_ Refinat?\n_ Seria tan amable de dispensar-me, amb aquesta gràcil desimboltura que se li endevina, un quilogram de nèctar dolç de canya?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Senyor director, puc sortir avui dues hores abans? La meva dona vol que l'acompanyi a fer unes compres al centre comercial.\n_ De cap manera!\n_ Gràcies director, ja sabia jo que no em defraudaria.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ I quin diria que és el seu defecte més gran?\n_ Soc una mica curtet. Em costa entendre les coses.\n_ Ja li trucarem.\n_ A qui?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Escolti, no puc anar a la guerra.\n_ Per què?\n_ Perquè tinc un problema de vista... no m’hi veig, anant a la guerra.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Saps en què ens diferencien els atletes olímpics de nosaltres, els paralímpics?\n_ No.\n_ Els olímpics utilitzen Reflex i nosaltres '3 en un'.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un boxejador pateix d’insomni i un amic li diu:\n_ Escolta... i has provat a comptar fins a quedar-te adormit?\n_ Sí, però és que arribo a 9 i m’aixeco.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "M’encanten les llargues passejades, especialment quan les fan les persones que m’avorreixen.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El capità d’un equip de futbol que ha quedat l’últim dona una explicació als seus companys:\n«Ja sé quin és el nostre punt feble: el futbol»\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un amic li comenta a un altre:\n_ No sé si prefereixo que la meva filla aprengui a tocar el piano o el clarinet.\n_ Millor el clarinet.\n_ Ah, sí? Per què?\n_ Perquè mentre bufa no pot cantar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un client s’interessa per la forma de procedir d’un restaurant.\n_ Escolti, i vostès com preparen el pollastre?\n_ Doncs, res... només li diem que l’anem a sacrificar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ No sé si dedicar-me a la pintura o a la poesia.\n_ Sens dubte, a la pintura.\n_ Has vist els meus quadres?\n_ No, els quadres, no, però he llegit els teus poemes.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "En un espectacle de màgia, el mag crida un noi del públic que pugi a l’escenari.\n_ Primer de tot, ha de dir que no ens coneixem de res. Oi que no ens coneixem de res?\n_ No, pare.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un client d’una llibreria:\n_ Em pot recomanar un bon llibre d’intriga?\n_ Sí —diu el dependent—, aquest és molt bo. No se sap fins a l’última pàgina que el lampista és l’assassí.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Quina diferència hi ha entre un filòsof, un boig i un psicòleg? El filòsof fa castells a l’aire, el boig els habita i el psicòleg cobra el lloguer.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Dos iaios:\n_ Per fi m’he pogut comprar l’aparell per a l’orella.\n_ I quan t’ha costat?\n_ Dos quarts de cinc.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Quan la meva àvia va fer els 70 anys, el metge li va recomanar que caminés uns 5 km diaris. Ella sempre feia cas al metge... Ara té 90 anys i no l’hem trobat mai més.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Aquest avió és de càrrega o de passatge?\n_ De càrrega.\n_ I què carrega?\n_ Passatgers.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Doncs aquest matí, quan m’he llevat, em trobava tan malament que he decidit suïcidar-me prenent-me 2.000 aspirines.\n_ Ah, sí? I què ha passat?\n_ Després de prendre’m la segona, ja m’he trobat millor.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "L’advocat, al seu client:\n_ L’han declarat innocent gràcies a la meva defensa. Però en confiança, digui’m, va ser vostè qui va robar el banc?\n_ Home, diria que l’havia robat, però després d’escoltar el seu al·legat ja no n’estic segur.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Una senyora, al supermercat:\n_ No hay derecho, no entiendo lo que pone aquí. ¡Está en catalán!\n_ Señora, no está escrito en catalán, sino en portugués.\n_ ¡Ah!, si es portugués, no pasa nada.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un home està sobre la bàscula de bany. Fica l’estómac cap endins. La seva parella veu el que fa:\n_ Això no et servirà de res.\n_ Sí, podré veure els números.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Et veig molt nerviós, què et passa?_ Vinc d'enterrar la meva sogra.\n_ Vaja home, no n'hi ha per tant.\n_ És que la molt tossuda no es deixava enterrar!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ He escrit una redacció que ha commogut el professor.\n_ I com ho saps?\n_ Perquè m'ha dit que feia pena.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Se l'acusa de nou intents d'assassinat. Com es declara l'acusat?\n_ Maldestre.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ T'agraden les meves ulleres noves?\n_ No gaire...\n_ Són progressives.\n_ Ah, bé, llavors, ja m'aniran agradant.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Ves amb compte, que aquest esperit tan competitiu teu et pot dur a la tomba en 3 o 4 anys.\n_ Ho puc aconseguir abans!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Al Tribunal:\n– Com va morir el seu primer marit?\n– Per uns bolets que va ingerir.\n– I el segon?\n– També per uns bolets\n– I el tercer?\n– D’un cop al cap\n– Com va ser això?\n– No es volia menjar els bolets!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Vaig preguntar al meu amic nord-coreà que com estava. Ell em va dir que no es podia queixar.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Soldat Garcia!\n_ Sí, senyor!\n_ No l'he vist als entrenamemts de camuflatge!\n_ Gràcies, senyor!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Fill, quan mori et deixaré alguna cosa perquè puguis menjar tota la vida.\n_ Diners?\n_ No. Una forquilla.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "I què passa si no sé què significa \"Armaguedon\"? No és la fi del món.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "No t'enfadis amb els mandrosos. No veus que no han fet res?\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Què tal he fet l'examen de levitació?\n_ Està vostè suspès. Enhorabona!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ A veure, Miquel, que estàs distret. Em pots dir dos pronoms?\n_ Qui, jo?\n_ Correcte.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Què fa un paio cridant com un boig de bon matí al camp?\nSembrar el pànic.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Això s'ha de celebrar! Cambrer, voldria convidar a una altra ronda a aquell senyor d'allà. Què està prenent?\n_ Un whisky Glenfiddich de quinze anys.\n_ Doncs posa-li un altre glaçó de part meva!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "La psicologia és l’únic negoci en què el client mai no té la raó.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Que què és pitjor, la ignorància o la indiferència?\nNi ho sé ni m’importa.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Al món hi ha tres tipus de persones: els que saben comptar i els que no.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Faig pudor?\n_ Home, com t'ho diria...? Hi ha gent que fa banys als rius i tu et rius dels banys.\n_ Ets un poeta!\n_ I tu un porc!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ M'agrada prendre el cafè sol.\n_ Ah, doncs a mi amb llet i una mica de canyella.\n_ No m'has entès. Encara ets aquí...\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un doctor visita un pacient i li pregunta:\n_ Des de quan creu que és un gos?\n_ Ja fa temps, des que era un cadell, doctor.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Doctor, tinc tendències suïcides... què faig?\n_Pagui’m per avançat.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Doctor, necessito ajuda. Vaig tan estressat que perdo la paciència amb la gent.\n_ Aviam, què li passa exactament?\n_ L'hi acabo d’explicar, cap de suro!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El contestador del telèfon d’assistència psiquiàtrica.\n_ Hola, benvingut al servei d’assistència psiquiàtrica. Si vostè és obsessiu compulsiu, marqui l’1 molts cops. Si vostè és dependent, demani a algú que li marqui el 2. Si vostè pateix de personalitat múltiple, marqui el 3, el 4, el 5 i el 6. Si és paranoic, ja sabem qui és vostè i el que vol. De seguida verifiquem d’on truca. Si és vostè esquizofrènic, escolti atentament dins el seu cap fins que senti una veueta que li dirà el número que ha de marcar. Si és vostè maníac-depressiu, no importa el número que marqui. Ningú li farà cas.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Doctor, sento com un sorollet imprecís i confús.\n_ Posi’s aquestes gotes i torni d’aquí a tres dies.\nAl cap de tres dies.\n_ Com es troba? - pregunta el doctor.\n_ Molt, bé. Ara ja sento el sorollet molt millor.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "El doctor truca al seu pacient:\n_ Miri, tinc una notícia bona i una de dolenta.\n_ Bé, digui’m primer la bona.\n_ Que li queden 24 hores de vida.\n_ Aquesta és la bona? I llavors, quina és la dolenta?\n_ Que intento localitzar-lo des d’ahir.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Dos metges veuen un home caminant lentament i en postura de simi antropoide. Un d’ells comenta:\n_ És un cas clar de pinçament vertebral amb lesió al plexe nerviós que li ha afectat el sistema locomotor inferior.\n_ Sento contradir-te, però estàs totalment equivocat. Soc especialista en el tema i el que pateix aquest home és una malformació congènita a la base de la ròtula amb desviació del fèmur.\nCom que tots dos no es posen d’acord, decideixen preguntar-li a l’home:\n_ Perdoni, el meu col·lega i jo no acabem de posar-nos d’acord... què té exactament vostè?\n_ Doncs mirin, que em pensava que era un pet i resulta que ha sortit més cosa.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Un borratxo li diu a la seva dona:\n_ Amor, he xocat, vine ràpid. Hi ha molts morts!\n_ Ai Déu meu! Has xocat contra un autobús?\n_ No, contra la paret del cementiri i tinc por!\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Ahir estava fent de sopar, se'm va acostar el meu fill i em va dir:\n\"Pare, algun dia treballaré i t'ajudaré amb el menjar i les despeses de la casa\".\n_ Se'm van omplir els ulls de llàgrimes, ja té 38 anys el meu petitó.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "Tinc tantes coses a dir, que si callo, em surten subtítols.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Gràcies a la bàscula del bany, puc saber quant pesa el que cago.\n_ Esclar, et peses abans i després ho restes.\n_ Ah... bé, així seria millor, sí.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Amor, necessito un xampú.\n_ En tens un a la dutxa.\n_ Ja, però és per a cabells secs i jo ja el tinc mullat.\n_ Uff, encara sort que ets guapo...\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Que endrecis l'habitació et dic!\n_ No puc, mare. Necessito temps.\n_ Temps per a què?!\n_ El temps s'encarrega de posar-ho tot al seu lloc.\n",
+        "part2": "",
+        "tema": []
+    },
+    {
+        "link": "https://www.parlacatalana.com/",
+        "mature": false,
+        "author": "Unknown",
+        "part1": "_ Pep, treu-te els calçotets, que avui toca.\n_ Fer l'amor?\n_ No, posar la rentadora.\n",
         "part2": "",
         "tema": []
     }

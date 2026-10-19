@@ -1,0 +1,31 @@
+# Ids de missatges del volcat de Telegram que no són acudits i no volem a la sortida
+# Un id per línia, el que hi ha darrere d'un # és un comentari
+
+# Publicitat
+545   # Stickers en català
+645   # 2020game.io
+789   # Stickers en català
+1148  # Llibre recomanat (Amazon)
+2038  # Llibre recomanat (Amazon)
+2087  # Llibre recomanat (Amazon)
+2117  # Samarreta (Amazon)
+2129  # Comparteix el canal
+2148  # Stickers de l'11 de setembre
+2172  # Comparteix el canal
+2224  # Joc de Buixots
+
+# Acudits incomplets (la resposta era en un altre missatge)
+2486  # Estupidesa + feixisme + ... =
+
+# Acudits visuals que no funcionen com a text
+2564  # Sàvies sàvies sàvies...
+
+# Notícies i campanyes
+858   # Aniversari de la mort d'Eugenio (vídeo)
+1280  # Vídeo del millor gol
+3204  # protestarnoesterrorisme.cat
+3244  # Notícia del blocatge de Telegram
+
+# Fragments de text: es descarten els acudits que els contenen
+# (per als missatges amb diversos acudits on només en sobra un)
+Any nou, vida nova. El passat trepitjat.   # Felicitació del canal als especials de Cap d'any
