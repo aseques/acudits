@@ -23,6 +23,9 @@
 # Acudits visuals que no funcionen com a text
 2564  # Sàvies sàvies sàvies...
 
+# Relats, no acudits
+2668  # Microrelat Intel·ligència Artificial (Chat GPT)
+
 # Notícies i campanyes
 858   # Aniversari de la mort d'Eugenio (vídeo)
 1280  # Vídeo del millor gol
@@ -34,3 +37,4 @@
 # (per als missatges amb diversos acudits on només en sobra un)
 Any nou, vida nova. El passat trepitjat.   # Felicitació del canal als especials de Cap d'any
 En una fila d'animals, quin seria l'últim?   # Joc de paraules en castellà (delfín)
+PD: No especifiquem quina família.   # Nota de l'acudit de la família reial, ha quedat separada

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Preparem el fitxer de sortida unint les colleccions d'acudits que tenim
 """
@@ -85,6 +86,19 @@ def trobar_i_unir_json(directori_principal, fitxer_sortida="acudits.json"):
         json.dump(dades_unificades, f_out, indent=4, ensure_ascii=False)
 
     print(f"Fitxer unificat creat: {fitxer_sortida}")
+    return dades_unificades
+
+
+def genera_txt(acudits, fitxer_sortida="acudits.txt"):
+    """Fitxer de text amb els acudits que no són per adults, un per línia
+
+    Una línia per acudit perquè es pugui triar un a l'atzar amb shuf -n 1 (ho fem servir des de Home Assistant)
+    """
+    # Unim les línies de cada acudit amb un espai i traiem els espais repetits
+    aptes = [" ".join(acudit["part1"].split()) for acudit in acudits if not acudit["mature"]]
+    with open(fitxer_sortida, "w", encoding="utf-8") as f_out:
+        f_out.write("\n".join(aptes) + "\n")
+    print(f"Fitxer de text creat: {fitxer_sortida} ({len(aptes)} acudits)")
 
 
 # Exemple d'ús
@@ -92,4 +106,5 @@ directori_principal = "."  # Canvia això per la carpeta on buscar
 
 # Executar les funcions
 executa_parsers(directori_principal)
-trobar_i_unir_json(directori_principal)
+acudits = trobar_i_unir_json(directori_principal)
+genera_txt(acudits)
