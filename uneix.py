@@ -23,6 +23,25 @@ def executa_parsers(directori_principal):
                 print(resultat.stdout.strip().splitlines()[-1])
 
 
+# Atribucions a personatges: volem acudits, no cites
+NOM = r"[A-ZÀ-Ú][\w'’-]+"
+NOMS = rf"(?:{NOM}[ \t]+){{1,3}}{NOM}"
+CITA = re.compile(
+    rf"\({NOMS}\)"                          # (Gary Delaney)
+    rf"|[\"”’']\.?\s*\({NOM}\)"             # "...". (Cantinflas)
+    rf"|~\s*{NOMS}\.?\s*(?:\(.*\))?\s*$"    # ~ Abraham Lincoln
+    rf"|[—–-]\s*{NOMS}\s*$"                 # —Mark Twain (sense punt final, els diàlegs en porten)
+    rf"|[\"”’'](?:[.,][ \t]*|[ \t]+)(?:[—–-][ \t]*)?{NOMS}\.?[ \t]*$",  # "..." —Herbert Hoober. / '...', Mark Twain.
+    re.M)
+
+
+def treu_cites(acudits):
+    """Eliminem els acudits que són cites atribuïdes a algun personatge"""
+    sense_cites = [acudit for acudit in acudits if not CITA.search(acudit["part1"])]
+    print(f"Hem tret {len(acudits) - len(sense_cites)} cites de personatges")
+    return sense_cites
+
+
 def clau_acudit(text):
     """Text normalitzat per comparar acudits: minúscules i sense puntuació, emojis ni espais repetits"""
     return re.sub(r"\W+", " ", text.lower()).strip()
@@ -59,6 +78,7 @@ def trobar_i_unir_json(directori_principal, fitxer_sortida="acudits.json"):
             except Exception as e:
                 print(f"No s'ha pogut llegir {cami_complet}: {e}")
 
+    dades_unificades = treu_cites(dades_unificades)
     dades_unificades = deduplica(dades_unificades)
 
     with open(fitxer_sortida, "w", encoding="utf-8") as f_out:

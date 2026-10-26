@@ -14,6 +14,9 @@
 2172  # Comparteix el canal
 2224  # Joc de Buixots
 
+# Anuncis del canal
+711   # Inclòs a la llista dels principals canals en català
+
 # Acudits incomplets (la resposta era en un altre missatge)
 2486  # Estupidesa + feixisme + ... =
 
@@ -23,9 +26,11 @@
 # Notícies i campanyes
 858   # Aniversari de la mort d'Eugenio (vídeo)
 1280  # Vídeo del millor gol
+2210  # Felicitació de l'1 d'octubre
 3204  # protestarnoesterrorisme.cat
 3244  # Notícia del blocatge de Telegram
 
 # Fragments de text: es descarten els acudits que els contenen
 # (per als missatges amb diversos acudits on només en sobra un)
 Any nou, vida nova. El passat trepitjat.   # Felicitació del canal als especials de Cap d'any
+En una fila d'animals, quin seria l'últim?   # Joc de paraules en castellà (delfín)

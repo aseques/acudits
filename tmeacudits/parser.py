@@ -5,22 +5,12 @@ Codi per extreure els acudits a partir del volcat de https://t.me/acudits
 """
 
 import json
+import sys
 import os
-import re
 import unicodedata
 
-# Paraules senceres (\b) per no confondre "polla" amb "ampolla" o "follar" amb "follet"
-PARAULES_ADULTS = re.compile(
-    r"\b("
-    r"sex(e|es|ual\w*|y)|cardar\w*|foll(ar|ant|at|ada|en|es|o|a|em|eu)|polla|polles|viagra"
-    r"|cond[oó]n?s?|preservatius?|p[eè]nis|vagin\w*|cony|collons|orgasm\w*|porno\w*|put[ao]s?"
-    r"|masturb\w*|erecci\w*|mamad\w*|prostitu\w*|cl[ií]toris|testicles?|semen|esperma\w*"
-    r")\b",
-    re.IGNORECASE)
-
-def adult(text):
-    """Identifiquem si el text és o no per adults"""
-    return PARAULES_ADULTS.search(text) is not None
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from comu import adult  # noqa: E402
 
 def nou_acudit():
     """Retorna un acudit buit amb els valors per defecte"""
@@ -72,6 +62,9 @@ def separa_text(text):
     # Els acudits dels especials de Cap d'any no porten hashtags, els marquem nosaltres
     text_pla = ''.join(tros if isinstance(tros, str) else tros['text'] for tros in text)
     especial_nadal = "Especial Acudits de Cap d'any" in text_pla
+    # Una línia d'emojis que es repeteix dins del missatge (🌹 📖 🐲) és un separador decoratiu
+    linies_emojis = [linia.strip() for linia in text_pla.splitlines() if es_emojis(linia)]
+    emojis_repetits = {linia for linia in linies_emojis if linies_emojis.count(linia) > 1}
 
     def tanca():
         acudit['part1'] = acudit['part1'].strip()
@@ -87,7 +80,7 @@ def separa_text(text):
         for i, linia in enumerate(linies):
             entre_blanques = (anterior.endswith('\n') and not anterior.strip()
                               and i + 1 < len(linies) and not linies[i + 1].strip())
-            if es_asteriscs(linia) or (es_emojis(linia) and entre_blanques):
+            if es_asteriscs(linia) or (es_emojis(linia) and (entre_blanques or linia.strip() in emojis_repetits)):
                 estat = 'nou'
                 pendent_adult = pendent_adult or '🔞' in linia
             elif estat == 'meta' or (estat == 'nou' and not linia.strip()):
